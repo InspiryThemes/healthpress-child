@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: HealthPress Theme\n"
-"POT-Creation-Date: 2015-12-22 14:42+0500\n"
-"PO-Revision-Date: 2015-12-22 14:43+0500\n"
+"POT-Creation-Date: 2016-02-18 11:49+0500\n"
+"PO-Revision-Date: 2016-02-18 11:49+0500\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: en_US\n"
@@ -48,24 +48,955 @@ msgstr ""
 msgid "Theme Options"
 msgstr ""
 
-#: admin/admin-interface.php:141
+#: admin/admin-interface.php:158
 msgid "SAVE ALL CHANGES"
 msgstr ""
 
-#: admin/admin-interface.php:146
+#: admin/admin-interface.php:163
 msgid "RESET"
 msgstr ""
 
-#: admin/admin-interface.php:1007
+#: admin/admin-interface.php:1024
 msgid "Upload Image"
 msgstr ""
 
-#: admin/admin-interface.php:1011
+#: admin/admin-interface.php:1028
 msgid "Remove"
 msgstr ""
 
-#: admin/theme-settings.php:81
+#: admin/customizer/blog.php:15 admin/theme-settings.php:600 archive.php:45
+msgid "Blog"
+msgstr ""
+
+#: admin/customizer/blog.php:20 admin/theme-settings.php:606
+msgid "Blog <span>Section</span>"
+msgstr ""
+
+#: admin/customizer/blog.php:25 admin/theme-settings.php:603
+msgid "Blog Title"
+msgstr ""
+
+#: admin/customizer/blog.php:26 admin/theme-settings.php:604
+msgid ""
+"You can wrap the words in &lt;span&gt;&lt;/span&gt; tag to high-light them."
+msgstr ""
+
+#: admin/customizer/blog.php:40 admin/customizer/gallery.php:40
+#: admin/customizer/service.php:36 admin/theme-settings.php:609
+#: admin/theme-settings.php:630 admin/theme-settings.php:698
+msgid "Text Below Title"
+msgstr ""
+
+#: admin/customizer/blog.php:41 admin/theme-settings.php:610
+msgid "This text will appear below main blog title."
+msgstr ""
+
+#: admin/customizer/blog.php:54 admin/theme-settings.php:614
+msgid "Do you want to open blog post image in lightbox ?"
+msgstr ""
+
+#: admin/customizer/blog.php:59 admin/customizer/contact.php:30
+#: admin/customizer/doctors-temp.php:28 admin/customizer/footer.php:38
+#: admin/customizer/gallery.php:76 admin/customizer/general.php:31
+#: admin/customizer/general.php:53 admin/customizer/header.php:191
+#: admin/customizer/home.php:74 admin/customizer/home.php:213
+#: admin/customizer/home.php:309 admin/customizer/home.php:646
+#: admin/customizer/home.php:711 admin/customizer/home.php:767
+#: admin/theme-settings.php:266 admin/theme-settings.php:364
+#: admin/theme-settings.php:376 admin/theme-settings.php:409
+#: admin/theme-settings.php:531 admin/theme-settings.php:554
+#: admin/theme-settings.php:576 admin/theme-settings.php:615
+#: admin/theme-settings.php:667 admin/theme-settings.php:715
+#: admin/theme-settings.php:726 admin/theme-settings.php:732
+#: admin/theme-settings.php:744 admin/theme-settings.php:802
+msgid "Yes"
+msgstr ""
+
+#: admin/customizer/blog.php:60 admin/customizer/contact.php:31
+#: admin/customizer/doctors-temp.php:29 admin/customizer/footer.php:39
+#: admin/customizer/gallery.php:77 admin/customizer/general.php:32
+#: admin/customizer/general.php:54 admin/customizer/header.php:192
+#: admin/customizer/home.php:75 admin/customizer/home.php:214
+#: admin/customizer/home.php:310 admin/customizer/home.php:647
+#: admin/customizer/home.php:712 admin/customizer/home.php:768
+msgid "No"
+msgstr ""
+
+#: admin/customizer/contact.php:15 admin/theme-settings.php:740
+msgid "Contact"
+msgstr ""
+
+#: admin/customizer/contact.php:25 admin/theme-settings.php:743
+msgid "Do you want to show Google Map on contact page template?"
+msgstr ""
+
+#: admin/customizer/contact.php:44 admin/theme-settings.php:748
+msgid "Google Map Latitude"
+msgstr ""
+
+#: admin/customizer/contact.php:60 admin/theme-settings.php:754
+msgid "Google Map Longitude"
+msgstr ""
+
+#: admin/customizer/contact.php:75 admin/theme-settings.php:760
+msgid "Address for Google Map"
+msgstr ""
+
+#: admin/customizer/contact.php:76 admin/theme-settings.php:761
+msgid ""
+"If you do not want to use Latitude and Longitude options then provide the "
+"google map address of your location."
+msgstr ""
+
+#: admin/customizer/contact.php:93 admin/theme-settings.php:766
+msgid "Google Map Zoom"
+msgstr ""
+
+#: admin/customizer/contact.php:108 admin/theme-settings.php:772
+msgid "Address"
+msgstr ""
+
+#: admin/customizer/contact.php:109 admin/theme-settings.php:773
+msgid "This address will appear above contact form section."
+msgstr ""
+
+#: admin/customizer/contact.php:120 admin/theme-settings.php:780
+msgid "Contact Us"
+msgstr ""
+
+#: admin/customizer/contact.php:125 admin/theme-settings.php:777
+msgid "Contact Form Heading"
+msgstr ""
+
+#: admin/customizer/contact.php:135 admin/theme-settings.php:786
+msgid ""
+"Fill out the form below to send us a message and we will get back to you "
+"ASAP."
+msgstr ""
+
+#: admin/customizer/contact.php:140 admin/theme-settings.php:783
+msgid "Contact Form Text Below Heading"
+msgstr ""
+
+#: admin/customizer/contact.php:155 admin/theme-settings.php:789
+msgid "Contact Email"
+msgstr ""
+
+#: admin/customizer/contact.php:156 admin/theme-settings.php:790
+msgid ""
+"Enter target email address that will receive messages from contact form."
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:14
+msgid "Doctors Template"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:23 admin/customizer/home.php:706
+#: admin/theme-settings.php:553 admin/theme-settings.php:666
+msgid "Do you want to replace doctor contents with doctor intro text ?"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:41 admin/theme-settings.php:672
+msgid "Number of Doctors to display on Two Columns Doctors Template"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:46 admin/customizer/home.php:816
+#: admin/customizer/service.php:66
+msgid "2"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:47 admin/customizer/doctors-temp.php:66
+#: admin/customizer/home.php:818 admin/customizer/service.php:68
+#: admin/customizer/service.php:116
+msgid "4"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:48 admin/customizer/home.php:693
+#: admin/customizer/home.php:820 admin/customizer/service.php:70
+#: admin/customizer/service.php:92
+msgid "6"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:49 admin/customizer/doctors-temp.php:67
+#: admin/customizer/home.php:822 admin/customizer/service.php:72
+#: admin/customizer/service.php:117
+msgid "8"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:50 admin/customizer/home.php:824
+#: admin/customizer/service.php:74
+msgid "10"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:61 admin/theme-settings.php:679
+msgid "Number of Doctors to display on Four Columns Doctors Template"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:68 admin/customizer/service.php:94
+#: admin/customizer/service.php:118
+msgid "12"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:69 admin/customizer/service.php:119
+msgid "16"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:70 admin/customizer/service.php:120
+msgid "20"
+msgstr ""
+
+#: admin/customizer/footer.php:16 admin/theme-settings.php:798
+msgid "Footer"
+msgstr ""
+
+#: admin/customizer/footer.php:22
+msgid "Twitter Setup"
+msgstr ""
+
+#: admin/customizer/footer.php:33 admin/theme-settings.php:801
+msgid "Do you want to display Twitter tweet above footer ?"
+msgstr ""
+
+#: admin/customizer/footer.php:54 admin/theme-settings.php:807
+msgid "Consumer Key"
+msgstr ""
+
+#: admin/customizer/footer.php:55
+msgid "You need to register a"
+msgstr ""
+
+#: admin/customizer/footer.php:69 admin/theme-settings.php:813
+msgid "Consumer Secret"
+msgstr ""
+
+#: admin/customizer/footer.php:70 admin/theme-settings.php:814
+msgid "Provide Your Twitter Application Consumer Secret."
+msgstr ""
+
+#: admin/customizer/footer.php:85 admin/theme-settings.php:819
+msgid "Access Token"
+msgstr ""
+
+#: admin/customizer/footer.php:86 admin/theme-settings.php:820
+msgid "Provide Your Twitter Application Access Token."
+msgstr ""
+
+#: admin/customizer/footer.php:101 admin/theme-settings.php:825
+msgid "Access Token Secret"
+msgstr ""
+
+#: admin/customizer/footer.php:102 admin/theme-settings.php:826
+msgid "Provide Your Twitter Application Access Token Secret."
+msgstr ""
+
+#: admin/customizer/footer.php:117 admin/theme-settings.php:831
+msgid "Twitter Username"
+msgstr ""
+
+#: admin/customizer/footer.php:118 admin/theme-settings.php:832
+msgid "Provide Twitter Username to Show tweets in footer."
+msgstr ""
+
+#: admin/customizer/footer.php:133 admin/theme-settings.php:837
+msgid "Twitter Background Color"
+msgstr ""
+
+#: admin/customizer/footer.php:145
+msgid "Footer Contents"
+msgstr ""
+
+#: admin/customizer/footer.php:156 admin/theme-settings.php:843
+msgid "Footer Logo"
+msgstr ""
+
+#: admin/customizer/footer.php:164
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis adipiscing id "
+"nulla vel lorem dapibus fringilla eget non felis, porttitor lectus."
+msgstr ""
+
+#: admin/customizer/footer.php:169 admin/theme-settings.php:849
+msgid "About Text"
+msgstr ""
+
+#: admin/customizer/footer.php:183 admin/theme-settings.php:855
+msgid "Read More Link"
+msgstr ""
+
+#: admin/customizer/footer.php:184 admin/theme-settings.php:856
+msgid "Provide Target URL for Read More button in footer."
+msgstr ""
+
+#: admin/customizer/footer.php:194
+msgid "&copy; 2015"
+msgstr ""
+
+#: admin/customizer/footer.php:199 admin/theme-settings.php:885
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/customizer/footer.php:200 admin/theme-settings.php:886
+msgid ""
+"Enter Footer Copyright Text here. For bold text wrap your text in span tag. "
+"<br /> &lt; span &gt;Your Text &lt; /span &gt;"
+msgstr ""
+
+#: admin/customizer/footer.php:214
+msgid "Right Side Text"
+msgstr ""
+
+#: admin/customizer/footer.php:215 admin/theme-settings.php:892
+msgid "Enter text that will appear on the right side of footer."
+msgstr ""
+
+#: admin/customizer/footer.php:227
+msgid "Footer Colors"
+msgstr ""
+
+#: admin/customizer/footer.php:239 admin/theme-settings.php:861
+msgid "Footer Background Color"
+msgstr ""
+
+#: admin/customizer/footer.php:253 admin/theme-settings.php:867
+msgid "Footer Text Color"
+msgstr ""
+
+#: admin/customizer/footer.php:267 admin/theme-settings.php:873
+msgid "Footer Link Color"
+msgstr ""
+
+#: admin/customizer/footer.php:281 admin/theme-settings.php:879
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: admin/customizer/gallery.php:15 admin/theme-settings.php:689
+msgid "Gallery"
+msgstr ""
+
+#: admin/customizer/gallery.php:21 admin/theme-settings.php:695
+msgid "Our <span>Gallery</span>"
+msgstr ""
+
+#: admin/customizer/gallery.php:26 admin/theme-settings.php:692
+msgid "Gallery Item Detail Page Title"
+msgstr ""
+
+#: admin/customizer/gallery.php:27 admin/theme-settings.php:693
+msgid ""
+"This title will appear on Individual Gallery Item Detail Page. You can wrap "
+"the words in &lt;span&gt;&lt;/span&gt; tag to high-light them."
+msgstr ""
+
+#: admin/customizer/gallery.php:53 admin/theme-settings.php:703
+msgid "Default Gallery Layout"
+msgstr ""
+
+#: admin/customizer/gallery.php:58 admin/theme-settings.php:709
+msgid "2 Columns"
+msgstr ""
+
+#: admin/customizer/gallery.php:59 admin/theme-settings.php:710
+msgid "3 Columns"
+msgstr ""
+
+#: admin/customizer/gallery.php:60 admin/theme-settings.php:711
+msgid "4 Columns"
+msgstr ""
+
+#: admin/customizer/gallery.php:71 admin/theme-settings.php:714
+msgid "Do you want to enable Image Slider on Gallery Item Detail Page ?"
+msgstr ""
+
+#: admin/customizer/general.php:12
+msgid "Misc"
+msgstr ""
+
+#: admin/customizer/general.php:26 admin/theme-settings.php:725
+msgid "Do you want to disable CAPTCHA in Appointment Widget and Contact page ?"
+msgstr ""
+
+#: admin/customizer/general.php:48 admin/theme-settings.php:731
+msgid "Do you want to disable Responsive Styles ?"
+msgstr ""
+
+#: admin/customizer/header.php:19
+msgid "Site Logo"
+msgstr ""
+
+#: admin/customizer/header.php:30 admin/theme-settings.php:81
 msgid "Header"
+msgstr ""
+
+#: admin/customizer/header.php:40
+msgid "Main Menu Colors"
+msgstr ""
+
+#: admin/customizer/header.php:56 admin/theme-settings.php:98
+msgid "Main Menu Background Color"
+msgstr ""
+
+#: admin/customizer/header.php:57
+msgid ""
+"Background Color for Main Menu. This will also be applied to appointment "
+"widget and scroll top button."
+msgstr ""
+
+#: admin/customizer/header.php:73 admin/theme-settings.php:104
+msgid "Main Menu Text Color"
+msgstr ""
+
+#: admin/customizer/header.php:74
+msgid ""
+"Text Color for Main Menu. This will also be applied to appointment widget."
+msgstr ""
+
+#: admin/customizer/header.php:90 admin/theme-settings.php:110
+msgid "Main Menu Text Shadow Color"
+msgstr ""
+
+#: admin/customizer/header.php:91
+msgid ""
+"Choose a Text Shadow Color for Menu. This will also be applied to "
+"appointment widget.."
+msgstr ""
+
+#: admin/customizer/header.php:108
+msgid "Main Menu Border Color"
+msgstr ""
+
+#: admin/customizer/header.php:109
+msgid "Choose a Border Color for Menu Item."
+msgstr ""
+
+#: admin/customizer/header.php:126
+msgid "Main Menu Hover Background Color"
+msgstr ""
+
+#: admin/customizer/header.php:127
+msgid "Choose a Hover Background Color for Top Menu."
+msgstr ""
+
+#: admin/customizer/header.php:143
+msgid "Sub Menu Hover Background Color"
+msgstr ""
+
+#: admin/customizer/header.php:144
+msgid "Choose a Hover Background Color for Sub Menu Item."
+msgstr ""
+
+#: admin/customizer/header.php:155
+msgid "Google Analytics Code"
+msgstr ""
+
+#: admin/customizer/header.php:164
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/customizer/header.php:175 admin/theme-settings.php:262
+msgid "Social Navigation"
+msgstr ""
+
+#: admin/customizer/header.php:186 admin/theme-settings.php:265
+msgid "Do you want to show social navigation ?"
+msgstr ""
+
+#: admin/customizer/header.php:207 admin/theme-settings.php:271
+msgid "Facebook"
+msgstr ""
+
+#: admin/customizer/header.php:226 admin/theme-settings.php:277
+msgid "Twitter"
+msgstr ""
+
+#: admin/customizer/header.php:245 admin/theme-settings.php:283
+msgid "Skype"
+msgstr ""
+
+#: admin/customizer/header.php:264 admin/theme-settings.php:289
+msgid "Flickr"
+msgstr ""
+
+#: admin/customizer/header.php:283 admin/theme-settings.php:295
+msgid "Google"
+msgstr ""
+
+#: admin/customizer/header.php:302 admin/theme-settings.php:301
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/customizer/header.php:321 admin/theme-settings.php:307
+msgid "Pinterest"
+msgstr ""
+
+#: admin/customizer/header.php:340
+msgid "Youtube"
+msgstr ""
+
+#: admin/customizer/header.php:359 admin/theme-settings.php:319
+msgid "RSS"
+msgstr ""
+
+#: admin/customizer/header.php:378 admin/theme-settings.php:325
+msgid "Instagram"
+msgstr ""
+
+#: admin/customizer/header.php:397 admin/theme-settings.php:331
+msgid "Phone"
+msgstr ""
+
+#: admin/customizer/home.php:15
+msgid "Home - Slider & Slogan Area"
+msgstr ""
+
+#: admin/customizer/home.php:23
+msgid "Slider Area"
+msgstr ""
+
+#: admin/customizer/home.php:37
+msgid "What to Display Below Header on Home Page ?"
+msgstr ""
+
+#: admin/customizer/home.php:44
+msgid "Default Slider"
+msgstr ""
+
+#: admin/customizer/home.php:45
+msgid "Slider Based on Revolution Slider Plugin."
+msgstr ""
+
+#: admin/customizer/home.php:56
+msgid "Revolution Slider Alias"
+msgstr ""
+
+#: admin/customizer/home.php:57
+msgid "If you want to display Revolution Slider then provide its alias here."
+msgstr ""
+
+#: admin/customizer/home.php:69
+msgid ""
+"Do you want to enable default slider navigation tabs to go to their linked "
+"URLs ?"
+msgstr ""
+
+#: admin/customizer/home.php:85
+msgid "Slider Colors"
+msgstr ""
+
+#: admin/customizer/home.php:100
+msgid "Slider Nav Background Color"
+msgstr ""
+
+#: admin/customizer/home.php:116
+msgid "Slider Nav Background Hover Color"
+msgstr ""
+
+#: admin/customizer/home.php:132 admin/theme-settings.php:224
+msgid "Slider Navigation Item Border Color"
+msgstr ""
+
+#: admin/customizer/home.php:149 admin/theme-settings.php:230
+msgid "Slider Navigation Title Color"
+msgstr ""
+
+#: admin/customizer/home.php:166 admin/theme-settings.php:236
+msgid "Slider Navigation Title Shadow Color"
+msgstr ""
+
+#: admin/customizer/home.php:183 admin/theme-settings.php:242
+msgid "Slider Navigation Sub-Title Color"
+msgstr ""
+
+#: admin/customizer/home.php:197
+msgid "Home Slogan"
+msgstr ""
+
+#: admin/customizer/home.php:208 admin/theme-settings.php:375
+msgid "Do you want to display Slogan on Homepage and Services Page ?"
+msgstr ""
+
+#: admin/customizer/home.php:224 admin/theme-settings.php:384
+msgid "We are proud of our organization."
+msgstr ""
+
+#: admin/customizer/home.php:229 admin/theme-settings.php:381
+msgid "Slogan Text"
+msgstr ""
+
+#: admin/customizer/home.php:246 admin/theme-settings.php:387
+msgid "Slogan Text Color"
+msgstr ""
+
+#: admin/customizer/home.php:262 admin/theme-settings.php:393
+msgid "Slogan Sub Text"
+msgstr ""
+
+#: admin/customizer/home.php:279 admin/theme-settings.php:398
+msgid "Slogan Sub Text Color"
+msgstr ""
+
+#: admin/customizer/home.php:290 admin/theme-settings.php:405
+msgid "Home - Services List"
+msgstr ""
+
+#: admin/customizer/home.php:294
+msgid "Display Option"
+msgstr ""
+
+#: admin/customizer/home.php:304 admin/theme-settings.php:408
+msgid ""
+"Do you want to display Serivces List with Icons on Homepage and Services "
+"Page ?"
+msgstr ""
+
+#: admin/customizer/home.php:320
+msgid "Select Image Type"
+msgstr ""
+
+#: admin/customizer/home.php:326
+msgid "Animated - (112px by 224px)"
+msgstr ""
+
+#: admin/customizer/home.php:327
+msgid "Non-Animated"
+msgstr ""
+
+#: admin/customizer/home.php:336
+msgid "1st service"
+msgstr ""
+
+#: admin/customizer/home.php:348 admin/theme-settings.php:415
+msgid "1st Service Image"
+msgstr ""
+
+#: admin/customizer/home.php:349 admin/customizer/home.php:407
+#: admin/customizer/home.php:466 admin/customizer/home.php:524
+#: admin/customizer/home.php:583
+msgid ""
+"Upload an image with flexible width/height OR (112px by 224px) for hover "
+"effect."
+msgstr ""
+
+#: admin/customizer/home.php:356 admin/customizer/home.php:414
+#: admin/customizer/home.php:473 admin/customizer/home.php:531
+#: admin/customizer/home.php:590 admin/theme-settings.php:423
+#: admin/theme-settings.php:445 admin/theme-settings.php:467
+#: admin/theme-settings.php:490 admin/theme-settings.php:512
+msgid "Cardiothoracic Surgery"
+msgstr ""
+
+#: admin/customizer/home.php:361 admin/theme-settings.php:421
+msgid "1st Service Heading"
+msgstr ""
+
+#: admin/customizer/home.php:369 admin/customizer/home.php:427
+#: admin/customizer/home.php:486 admin/customizer/home.php:544
+#: admin/customizer/home.php:603 admin/theme-settings.php:428
+#: admin/theme-settings.php:450 admin/theme-settings.php:472
+#: admin/theme-settings.php:495 admin/theme-settings.php:517
+msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+msgstr ""
+
+#: admin/customizer/home.php:373 admin/theme-settings.php:426
+msgid "1st Service Text"
+msgstr ""
+
+#: admin/customizer/home.php:385 admin/theme-settings.php:431
+msgid "1st Service Link"
+msgstr ""
+
+#: admin/customizer/home.php:396
+msgid "2nd service"
+msgstr ""
+
+#: admin/customizer/home.php:406 admin/theme-settings.php:437
+msgid "2nd Service Image"
+msgstr ""
+
+#: admin/customizer/home.php:419 admin/theme-settings.php:443
+msgid "2nd Service Heading"
+msgstr ""
+
+#: admin/customizer/home.php:431 admin/theme-settings.php:448
+msgid "2nd Service Text"
+msgstr ""
+
+#: admin/customizer/home.php:443 admin/theme-settings.php:453
+msgid "2nd Service Link"
+msgstr ""
+
+#: admin/customizer/home.php:455
+msgid "3rd service"
+msgstr ""
+
+#: admin/customizer/home.php:465 admin/theme-settings.php:459
+msgid "3rd Service Image"
+msgstr ""
+
+#: admin/customizer/home.php:478 admin/theme-settings.php:465
+msgid "3rd Service Heading"
+msgstr ""
+
+#: admin/customizer/home.php:490 admin/theme-settings.php:470
+msgid "3rd Service Text"
+msgstr ""
+
+#: admin/customizer/home.php:502 admin/theme-settings.php:475
+msgid "3rd Service Link"
+msgstr ""
+
+#: admin/customizer/home.php:513
+msgid "4th service"
+msgstr ""
+
+#: admin/customizer/home.php:523 admin/theme-settings.php:482
+msgid "4th Service Image"
+msgstr ""
+
+#: admin/customizer/home.php:536 admin/theme-settings.php:488
+msgid "4th Service Heading"
+msgstr ""
+
+#: admin/customizer/home.php:548 admin/theme-settings.php:493
+msgid "4th Service Text"
+msgstr ""
+
+#: admin/customizer/home.php:560 admin/theme-settings.php:498
+msgid "4th Service Link"
+msgstr ""
+
+#: admin/customizer/home.php:572
+msgid "5th service"
+msgstr ""
+
+#: admin/customizer/home.php:582 admin/theme-settings.php:504
+msgid "5th Service Image"
+msgstr ""
+
+#: admin/customizer/home.php:595 admin/theme-settings.php:510
+msgid "5th Service Heading"
+msgstr ""
+
+#: admin/customizer/home.php:607 admin/theme-settings.php:515
+msgid "5th Service Text"
+msgstr ""
+
+#: admin/customizer/home.php:619 admin/theme-settings.php:520
+msgid "5th Service Link"
+msgstr ""
+
+#: admin/customizer/home.php:632 admin/theme-settings.php:527
+msgid "Home - Doctors"
+msgstr ""
+
+#: admin/customizer/home.php:641 admin/theme-settings.php:530
+msgid "Do you want to display Doctors section on Homepage ?"
+msgstr ""
+
+#: admin/customizer/home.php:655 admin/theme-settings.php:538
+msgid "Meet Our Doctors"
+msgstr ""
+
+#: admin/customizer/home.php:659 admin/theme-settings.php:536
+msgid "Doctors Heading"
+msgstr ""
+
+#: admin/customizer/home.php:672 admin/theme-settings.php:541
+msgid "Doctors Text"
+msgstr ""
+
+#: admin/customizer/home.php:673 admin/theme-settings.php:542
+msgid "This text will appear below main heading in Doctors section."
+msgstr ""
+
+#: admin/customizer/home.php:687 admin/theme-settings.php:547
+msgid "Choose the number of doctors to display on Homepage."
+msgstr ""
+
+#: admin/customizer/home.php:692 admin/customizer/home.php:817
+#: admin/customizer/service.php:67 admin/customizer/service.php:91
+msgid "3"
+msgstr ""
+
+#: admin/customizer/home.php:694 admin/customizer/home.php:823
+#: admin/customizer/service.php:73 admin/customizer/service.php:93
+msgid "9"
+msgstr ""
+
+#: admin/customizer/home.php:721 admin/theme-settings.php:562
+msgid "More Doctors"
+msgstr ""
+
+#: admin/customizer/home.php:726 admin/theme-settings.php:559
+msgid "More Doctors Button Title"
+msgstr ""
+
+#: admin/customizer/home.php:736
+msgid "#"
+msgstr ""
+
+#: admin/customizer/home.php:741 admin/theme-settings.php:565
+msgid "More Doctors Link"
+msgstr ""
+
+#: admin/customizer/home.php:753 admin/theme-settings.php:572
+msgid "Home - Testimonials"
+msgstr ""
+
+#: admin/customizer/home.php:762 admin/theme-settings.php:575
+msgid "Do you want to display Testimonials section on Homepage ?"
+msgstr ""
+
+#: admin/customizer/home.php:776 admin/theme-settings.php:583
+msgid "What our patients say"
+msgstr ""
+
+#: admin/customizer/home.php:781 admin/theme-settings.php:581
+msgid "Testimonials Heading"
+msgstr ""
+
+#: admin/customizer/home.php:795 admin/theme-settings.php:586
+msgid "Testimonials Text"
+msgstr ""
+
+#: admin/customizer/home.php:796 admin/theme-settings.php:587
+msgid "This text will appear below main heading in Testimonials section."
+msgstr ""
+
+#: admin/customizer/home.php:810
+msgid "Number of Testimonials to display on Homepage."
+msgstr ""
+
+#: admin/customizer/home.php:815 admin/customizer/service.php:65
+msgid "1"
+msgstr ""
+
+#: admin/customizer/home.php:819 admin/customizer/service.php:69
+msgid "5"
+msgstr ""
+
+#: admin/customizer/home.php:821 admin/customizer/service.php:71
+msgid "7"
+msgstr ""
+
+#: admin/customizer/service.php:11 admin/theme-settings.php:621
+msgid "Service Detail Page"
+msgstr ""
+
+#: admin/customizer/service.php:16 admin/theme-settings.php:627
+msgid "Our <span>Services</span>"
+msgstr ""
+
+#: admin/customizer/service.php:21 admin/theme-settings.php:624
+msgid "Service Detail Page Title"
+msgstr ""
+
+#: admin/customizer/service.php:22 admin/theme-settings.php:625
+msgid ""
+"This title will appear on Individual Service Detail Page. You can wrap the "
+"words in &lt;span&gt;&lt;/span&gt; tag to high-light them."
+msgstr ""
+
+#: admin/customizer/service.php:37 admin/theme-settings.php:631
+msgid "This text will appear below Service title."
+msgstr ""
+
+#: admin/customizer/service.php:49 admin/theme-settings.php:638
+msgid "Services Templates"
+msgstr ""
+
+#: admin/customizer/service.php:60 admin/theme-settings.php:640
+msgid "Number of Services to display on One Column Services Template"
+msgstr ""
+
+#: admin/customizer/service.php:86 admin/theme-settings.php:648
+msgid "Number of Services to display on Three Columns Services Template"
+msgstr ""
+
+#: admin/customizer/service.php:95
+msgid "15"
+msgstr ""
+
+#: admin/customizer/service.php:96
+msgid "18"
+msgstr ""
+
+#: admin/customizer/service.php:97
+msgid "21"
+msgstr ""
+
+#: admin/customizer/service.php:98 admin/customizer/service.php:121
+msgid "24"
+msgstr ""
+
+#: admin/customizer/service.php:99
+msgid "27"
+msgstr ""
+
+#: admin/customizer/service.php:111 admin/theme-settings.php:655
+msgid "Number of Services to display on Four Columns Services Template"
+msgstr ""
+
+#: admin/customizer/service.php:122
+msgid "28"
+msgstr ""
+
+#: admin/customizer/styling.php:20 admin/theme-settings.php:152
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/customizer/styling.php:35 admin/theme-settings.php:158
+msgid "Headings Color"
+msgstr ""
+
+#: admin/customizer/styling.php:50 admin/theme-settings.php:164
+msgid "Main Title Color"
+msgstr ""
+
+#: admin/customizer/styling.php:65 admin/theme-settings.php:170
+msgid "Highlight Color"
+msgstr ""
+
+#: admin/customizer/styling.php:66
+msgid "Choose a color for highligted items and text throug-out the theme."
+msgstr ""
+
+#: admin/customizer/styling.php:82 admin/theme-settings.php:176
+msgid "Selection Background Color"
+msgstr ""
+
+#: admin/customizer/styling.php:97 admin/theme-settings.php:182
+msgid "Link Color"
+msgstr ""
+
+#: admin/customizer/styling.php:112 admin/theme-settings.php:188
+msgid "Link Hover Color"
+msgstr ""
+
+#: admin/customizer/styling.php:127
+msgid "Button Background Color"
+msgstr ""
+
+#: admin/customizer/styling.php:142
+msgid "Button Text Color"
+msgstr ""
+
+#: admin/customizer/styling.php:158
+msgid "Button Text Shadow Color"
+msgstr ""
+
+#: admin/customizer/styling.php:174 admin/theme-settings.php:248
+msgid "Sidebar Widget Title Color"
+msgstr ""
+
+#: admin/customizer/styling.php:188
+msgid "Quick Css"
+msgstr ""
+
+#: admin/customizer/styling.php:189 admin/theme-settings.php:255
+msgid ""
+"Just want to do some quick CSS changes? Enter them here, they will be "
+"applied to the theme. If you need to change major portions of the theme "
+"please use the custom.css file."
 msgstr ""
 
 #: admin/theme-settings.php:85
@@ -85,28 +1016,16 @@ msgid ""
 "Upload a 16px by 16px PNG image that will represent your website favicon."
 msgstr ""
 
-#: admin/theme-settings.php:98
-msgid "Main Menu Background Color"
-msgstr ""
-
 #: admin/theme-settings.php:99
 msgid ""
 "Choose a Background Color for Main Menu. Base Theme Color is #46a1b4. This "
 "will also be applied to appointment widget and scroll top button."
 msgstr ""
 
-#: admin/theme-settings.php:104
-msgid "Main Menu Text Color"
-msgstr ""
-
 #: admin/theme-settings.php:105
 msgid ""
 "Choose a Text Color for Menu. Base Theme Color is #ffffff. This will also be "
 "applied to appointment widget."
-msgstr ""
-
-#: admin/theme-settings.php:110
-msgid "Main Menu Text Shadow Color"
 msgstr ""
 
 #: admin/theme-settings.php:111
@@ -158,16 +1077,8 @@ msgstr ""
 msgid "Body Background"
 msgstr ""
 
-#: admin/theme-settings.php:152
-msgid "Body Text Color"
-msgstr ""
-
 #: admin/theme-settings.php:153
 msgid "Choose a Body Text Color. Base Theme Color is #808080"
-msgstr ""
-
-#: admin/theme-settings.php:158
-msgid "Headings Color"
 msgstr ""
 
 #: admin/theme-settings.php:159
@@ -176,18 +1087,10 @@ msgid ""
 "#6a6a75"
 msgstr ""
 
-#: admin/theme-settings.php:164
-msgid "Main Title Color"
-msgstr ""
-
 #: admin/theme-settings.php:165
 msgid ""
 "Choose a Color for Main Title text that appears on almost every page. Base "
 "Theme Color is #819093"
-msgstr ""
-
-#: admin/theme-settings.php:170
-msgid "Highlight Color"
 msgstr ""
 
 #: admin/theme-settings.php:171
@@ -196,24 +1099,12 @@ msgid ""
 "Theme Color is #F56734"
 msgstr ""
 
-#: admin/theme-settings.php:176
-msgid "Selection Background Color"
-msgstr ""
-
 #: admin/theme-settings.php:177
 msgid "Choose a Background Selection Color. Base Theme Color is #3E96A9"
 msgstr ""
 
-#: admin/theme-settings.php:182
-msgid "Link Color"
-msgstr ""
-
 #: admin/theme-settings.php:183
 msgid "Choose a Link Color. Base Theme Color is #4c595c"
-msgstr ""
-
-#: admin/theme-settings.php:188
-msgid "Link Hover Color"
 msgstr ""
 
 #: admin/theme-settings.php:189
@@ -263,25 +1154,13 @@ msgid ""
 "#ec490d"
 msgstr ""
 
-#: admin/theme-settings.php:224
-msgid "Slider Navigation Item Border Color"
-msgstr ""
-
 #: admin/theme-settings.php:225
 msgid ""
 "Choose a Border Color for Slider Navigation Item. Base Theme Color is #FD7B4D"
 msgstr ""
 
-#: admin/theme-settings.php:230
-msgid "Slider Navigation Title Color"
-msgstr ""
-
 #: admin/theme-settings.php:231
 msgid "Choose a Color for Slider Navigation Title. Base Theme Color is #ffffff"
-msgstr ""
-
-#: admin/theme-settings.php:236
-msgid "Slider Navigation Title Shadow Color"
 msgstr ""
 
 #: admin/theme-settings.php:237
@@ -290,17 +1169,9 @@ msgid ""
 "is #BE4214"
 msgstr ""
 
-#: admin/theme-settings.php:242
-msgid "Slider Navigation Sub-Title Color"
-msgstr ""
-
 #: admin/theme-settings.php:243
 msgid ""
 "Choose a Color for Slider Navigation Sub-Title. Base Theme Color is #FAD7CB"
-msgstr ""
-
-#: admin/theme-settings.php:248
-msgid "Sidebar Widget Title Color"
 msgstr ""
 
 #: admin/theme-settings.php:249
@@ -311,81 +1182,28 @@ msgstr ""
 msgid "Quick CSS"
 msgstr ""
 
-#: admin/theme-settings.php:255
-msgid ""
-"Just want to do some quick CSS changes? Enter them here, they will be "
-"applied to the theme. If you need to change major portions of the theme "
-"please use the custom.css file."
-msgstr ""
-
-#: admin/theme-settings.php:262
-msgid "Social Navigation"
-msgstr ""
-
-#: admin/theme-settings.php:265
-msgid "Do you want to show social navigation ?"
-msgstr ""
-
-#: admin/theme-settings.php:266 admin/theme-settings.php:364
-#: admin/theme-settings.php:376 admin/theme-settings.php:409
-#: admin/theme-settings.php:531 admin/theme-settings.php:554
-#: admin/theme-settings.php:576 admin/theme-settings.php:615
-#: admin/theme-settings.php:667 admin/theme-settings.php:715
-#: admin/theme-settings.php:726 admin/theme-settings.php:732
-#: admin/theme-settings.php:744 admin/theme-settings.php:802
-msgid "Yes"
-msgstr ""
-
-#: admin/theme-settings.php:271
-msgid "Facebook"
-msgstr ""
-
 #: admin/theme-settings.php:272
 msgid "Provide Facebook link to display its icon in top navigation."
-msgstr ""
-
-#: admin/theme-settings.php:277
-msgid "Twitter"
 msgstr ""
 
 #: admin/theme-settings.php:278
 msgid "Provide Twitter link to display its icon in top navigation."
 msgstr ""
 
-#: admin/theme-settings.php:283
-msgid "Skype"
-msgstr ""
-
 #: admin/theme-settings.php:284
 msgid "Provide Skype link to display its icon in top navigation."
-msgstr ""
-
-#: admin/theme-settings.php:289
-msgid "Flickr"
 msgstr ""
 
 #: admin/theme-settings.php:290
 msgid "Provide Flickr link to display its icon in top navigation."
 msgstr ""
 
-#: admin/theme-settings.php:295
-msgid "Google"
-msgstr ""
-
 #: admin/theme-settings.php:296
 msgid "Provide Google link to display its icon in top navigation."
 msgstr ""
 
-#: admin/theme-settings.php:301
-msgid "LinkedIn"
-msgstr ""
-
 #: admin/theme-settings.php:302
 msgid "Provide LinkedIn link to display its icon in top navigation."
-msgstr ""
-
-#: admin/theme-settings.php:307
-msgid "Pinterest"
 msgstr ""
 
 #: admin/theme-settings.php:308
@@ -400,24 +1218,12 @@ msgstr ""
 msgid "Provide YouTube link to display its icon in top navigation."
 msgstr ""
 
-#: admin/theme-settings.php:319
-msgid "RSS"
-msgstr ""
-
 #: admin/theme-settings.php:320
 msgid "Provide RSS link to display its icon in top navigation."
 msgstr ""
 
-#: admin/theme-settings.php:325
-msgid "Instagram"
-msgstr ""
-
 #: admin/theme-settings.php:326
 msgid "Provide Instagram link to display its icon in top navigation."
-msgstr ""
-
-#: admin/theme-settings.php:331
-msgid "Phone"
 msgstr ""
 
 #: admin/theme-settings.php:332
@@ -462,58 +1268,20 @@ msgstr ""
 msgid "Home - Slogan"
 msgstr ""
 
-#: admin/theme-settings.php:375
-msgid "Do you want to display Slogan on Homepage and Services Page ?"
-msgstr ""
-
-#: admin/theme-settings.php:381
-msgid "Slogan Text"
-msgstr ""
-
 #: admin/theme-settings.php:382
 msgid "Main slogan text."
-msgstr ""
-
-#: admin/theme-settings.php:384
-msgid "We are proud of our organization."
-msgstr ""
-
-#: admin/theme-settings.php:387
-msgid "Slogan Text Color"
 msgstr ""
 
 #: admin/theme-settings.php:388
 msgid "Choose a Slogan Text Color. Base Theme Color is #3e96a9"
 msgstr ""
 
-#: admin/theme-settings.php:393
-msgid "Slogan Sub Text"
-msgstr ""
-
 #: admin/theme-settings.php:394
 msgid "Sub slogan text that will appear below main slogan text."
 msgstr ""
 
-#: admin/theme-settings.php:398
-msgid "Slogan Sub Text Color"
-msgstr ""
-
 #: admin/theme-settings.php:399
 msgid "Choose a Slogan Sub Text Color. Base Theme Color is #819093"
-msgstr ""
-
-#: admin/theme-settings.php:405
-msgid "Home - Services List"
-msgstr ""
-
-#: admin/theme-settings.php:408
-msgid ""
-"Do you want to display Serivces List with Icons on Homepage and Services "
-"Page ?"
-msgstr ""
-
-#: admin/theme-settings.php:415
-msgid "1st Service Image"
 msgstr ""
 
 #: admin/theme-settings.php:416 admin/theme-settings.php:438
@@ -524,180 +1292,24 @@ msgid ""
 "hover effect."
 msgstr ""
 
-#: admin/theme-settings.php:421
-msgid "1st Service Heading"
-msgstr ""
-
-#: admin/theme-settings.php:423 admin/theme-settings.php:445
-#: admin/theme-settings.php:467 admin/theme-settings.php:490
-#: admin/theme-settings.php:512
-msgid "Cardiothoracic Surgery"
-msgstr ""
-
-#: admin/theme-settings.php:426
-msgid "1st Service Text"
-msgstr ""
-
-#: admin/theme-settings.php:428 admin/theme-settings.php:450
-#: admin/theme-settings.php:472 admin/theme-settings.php:495
-#: admin/theme-settings.php:517
-msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
-msgstr ""
-
-#: admin/theme-settings.php:431
-msgid "1st Service Link"
-msgstr ""
-
 #: admin/theme-settings.php:432 admin/theme-settings.php:454
 #: admin/theme-settings.php:476 admin/theme-settings.php:499
 #: admin/theme-settings.php:521
 msgid "This link will be applied on heading and image."
 msgstr ""
 
-#: admin/theme-settings.php:437
-msgid "2nd Service Image"
-msgstr ""
-
-#: admin/theme-settings.php:443
-msgid "2nd Service Heading"
-msgstr ""
-
-#: admin/theme-settings.php:448
-msgid "2nd Service Text"
-msgstr ""
-
-#: admin/theme-settings.php:453
-msgid "2nd Service Link"
-msgstr ""
-
-#: admin/theme-settings.php:459
-msgid "3rd Service Image"
-msgstr ""
-
-#: admin/theme-settings.php:465
-msgid "3rd Service Heading"
-msgstr ""
-
-#: admin/theme-settings.php:470
-msgid "3rd Service Text"
-msgstr ""
-
-#: admin/theme-settings.php:475
-msgid "3rd Service Link"
-msgstr ""
-
-#: admin/theme-settings.php:482
-msgid "4th Service Image"
-msgstr ""
-
-#: admin/theme-settings.php:488
-msgid "4th Service Heading"
-msgstr ""
-
-#: admin/theme-settings.php:493
-msgid "4th Service Text"
-msgstr ""
-
-#: admin/theme-settings.php:498
-msgid "4th Service Link"
-msgstr ""
-
-#: admin/theme-settings.php:504
-msgid "5th Service Image"
-msgstr ""
-
-#: admin/theme-settings.php:510
-msgid "5th Service Heading"
-msgstr ""
-
-#: admin/theme-settings.php:515
-msgid "5th Service Text"
-msgstr ""
-
-#: admin/theme-settings.php:520
-msgid "5th Service Link"
-msgstr ""
-
-#: admin/theme-settings.php:527
-msgid "Home - Doctors"
-msgstr ""
-
-#: admin/theme-settings.php:530
-msgid "Do you want to display Doctors section on Homepage ?"
-msgstr ""
-
-#: admin/theme-settings.php:536
-msgid "Doctors Heading"
-msgstr ""
-
-#: admin/theme-settings.php:538
-msgid "Meet Our Doctors"
-msgstr ""
-
-#: admin/theme-settings.php:541
-msgid "Doctors Text"
-msgstr ""
-
-#: admin/theme-settings.php:542
-msgid "This text will appear below main heading in Doctors section."
-msgstr ""
-
 #: admin/theme-settings.php:546
 msgid "Number of Doctors to display on Homepage"
-msgstr ""
-
-#: admin/theme-settings.php:547
-msgid "Choose the number of doctors to display on Homepage."
-msgstr ""
-
-#: admin/theme-settings.php:553 admin/theme-settings.php:666
-msgid "Do you want to replace doctor contents with doctor intro text ?"
-msgstr ""
-
-#: admin/theme-settings.php:559
-msgid "More Doctors Button Title"
 msgstr ""
 
 #: admin/theme-settings.php:560
 msgid "Provide More Doctors Button Title."
 msgstr ""
 
-#: admin/theme-settings.php:562
-msgid "More Doctors"
-msgstr ""
-
-#: admin/theme-settings.php:565
-msgid "More Doctors Link"
-msgstr ""
-
 #: admin/theme-settings.php:566
 msgid ""
 "This link will be applied on More Doctors button below doctors section on "
 "homepage."
-msgstr ""
-
-#: admin/theme-settings.php:572
-msgid "Home - Testimonials"
-msgstr ""
-
-#: admin/theme-settings.php:575
-msgid "Do you want to display Testimonials section on Homepage ?"
-msgstr ""
-
-#: admin/theme-settings.php:581
-msgid "Testimonials Heading"
-msgstr ""
-
-#: admin/theme-settings.php:583
-msgid "What our patients say"
-msgstr ""
-
-#: admin/theme-settings.php:586
-msgid "Testimonials Text"
-msgstr ""
-
-#: admin/theme-settings.php:587
-msgid "This text will appear below main heading in Testimonials section."
 msgstr ""
 
 #: admin/theme-settings.php:591
@@ -708,239 +1320,40 @@ msgstr ""
 msgid "Choose the number of Testimonials to display on Homepage."
 msgstr ""
 
-#: admin/theme-settings.php:600 archive.php:45
-msgid "Blog"
-msgstr ""
-
-#: admin/theme-settings.php:603
-msgid "Blog Title"
-msgstr ""
-
-#: admin/theme-settings.php:604
-msgid ""
-"You can wrap the words in &lt;span&gt;&lt;/span&gt; tag to high-light them."
-msgstr ""
-
-#: admin/theme-settings.php:606
-msgid "Blog <span>Section</span>"
-msgstr ""
-
-#: admin/theme-settings.php:609 admin/theme-settings.php:630
-#: admin/theme-settings.php:698
-msgid "Text Below Title"
-msgstr ""
-
-#: admin/theme-settings.php:610
-msgid "This text will appear below main blog title."
-msgstr ""
-
-#: admin/theme-settings.php:614
-msgid "Do you want to open blog post image in lightbox ?"
-msgstr ""
-
-#: admin/theme-settings.php:621
-msgid "Service Detail Page"
-msgstr ""
-
-#: admin/theme-settings.php:624
-msgid "Service Detail Page Title"
-msgstr ""
-
-#: admin/theme-settings.php:625
-msgid ""
-"This title will appear on Individual Service Detail Page. You can wrap the "
-"words in &lt;span&gt;&lt;/span&gt; tag to high-light them."
-msgstr ""
-
-#: admin/theme-settings.php:627
-msgid "Our <span>Services</span>"
-msgstr ""
-
-#: admin/theme-settings.php:631
-msgid "This text will appear below Service title."
-msgstr ""
-
-#: admin/theme-settings.php:638
-msgid "Services Templates"
-msgstr ""
-
-#: admin/theme-settings.php:640
-msgid "Number of Services to display on One Column Services Template"
-msgstr ""
-
-#: admin/theme-settings.php:648
-msgid "Number of Services to display on Three Columns Services Template"
-msgstr ""
-
-#: admin/theme-settings.php:655
-msgid "Number of Services to display on Four Columns Services Template"
-msgstr ""
-
 #: admin/theme-settings.php:664
 msgid "Doctors Templates"
-msgstr ""
-
-#: admin/theme-settings.php:672
-msgid "Number of Doctors to display on Two Columns Doctors Template"
-msgstr ""
-
-#: admin/theme-settings.php:679
-msgid "Number of Doctors to display on Four Columns Doctors Template"
-msgstr ""
-
-#: admin/theme-settings.php:689
-msgid "Gallery"
-msgstr ""
-
-#: admin/theme-settings.php:692
-msgid "Gallery Item Detail Page Title"
-msgstr ""
-
-#: admin/theme-settings.php:693
-msgid ""
-"This title will appear on Individual Gallery Item Detail Page. You can wrap "
-"the words in &lt;span&gt;&lt;/span&gt; tag to high-light them."
-msgstr ""
-
-#: admin/theme-settings.php:695
-msgid "Our <span>Gallery</span>"
 msgstr ""
 
 #: admin/theme-settings.php:699
 msgid "This text will appear below Gallery title."
 msgstr ""
 
-#: admin/theme-settings.php:703
-msgid "Default Gallery Layout"
-msgstr ""
-
 #: admin/theme-settings.php:704
 msgid "Choose the default Gallery layout for Gallery Item Type Pages."
-msgstr ""
-
-#: admin/theme-settings.php:709
-msgid "2 Columns"
-msgstr ""
-
-#: admin/theme-settings.php:710
-msgid "3 Columns"
-msgstr ""
-
-#: admin/theme-settings.php:711
-msgid "4 Columns"
-msgstr ""
-
-#: admin/theme-settings.php:714
-msgid "Do you want to enable Image Slider on Gallery Item Detail Page ?"
 msgstr ""
 
 #: admin/theme-settings.php:722
 msgid "General"
 msgstr ""
 
-#: admin/theme-settings.php:725
-msgid "Do you want to disable CAPTCHA in Appointment Widget and Contact page ?"
-msgstr ""
-
-#: admin/theme-settings.php:731
-msgid "Do you want to disable Responsive Styles ?"
-msgstr ""
-
-#: admin/theme-settings.php:740
-msgid "Contact"
-msgstr ""
-
-#: admin/theme-settings.php:743
-msgid "Do you want to show Google Map on contact page template?"
-msgstr ""
-
-#: admin/theme-settings.php:748
-msgid "Google Map Latitude"
-msgstr ""
-
 #: admin/theme-settings.php:749
 msgid "Enter Google Map Latitude"
-msgstr ""
-
-#: admin/theme-settings.php:754
-msgid "Google Map Longitude"
 msgstr ""
 
 #: admin/theme-settings.php:755
 msgid "Enter Google Map Longitude"
 msgstr ""
 
-#: admin/theme-settings.php:760
-msgid "Address for Google Map"
-msgstr ""
-
-#: admin/theme-settings.php:761
-msgid ""
-"If you do not want to use Latitude and Longitude options then provide the "
-"google map address of your location."
-msgstr ""
-
-#: admin/theme-settings.php:766
-msgid "Google Map Zoom"
-msgstr ""
-
 #: admin/theme-settings.php:767
 msgid "Enter Google Map Zoom Level. Example: 17"
-msgstr ""
-
-#: admin/theme-settings.php:772
-msgid "Address"
-msgstr ""
-
-#: admin/theme-settings.php:773
-msgid "This address will appear above contact form section."
-msgstr ""
-
-#: admin/theme-settings.php:777
-msgid "Contact Form Heading"
 msgstr ""
 
 #: admin/theme-settings.php:778
 msgid "Enter heading for your contact form."
 msgstr ""
 
-#: admin/theme-settings.php:780
-msgid "Contact Us"
-msgstr ""
-
-#: admin/theme-settings.php:783
-msgid "Contact Form Text Below Heading"
-msgstr ""
-
 #: admin/theme-settings.php:784
 msgid "Enter text that will appear below heading and above contact form."
-msgstr ""
-
-#: admin/theme-settings.php:786
-msgid ""
-"Fill out the form below to send us a message and we will get back to you "
-"ASAP."
-msgstr ""
-
-#: admin/theme-settings.php:789
-msgid "Contact Email"
-msgstr ""
-
-#: admin/theme-settings.php:790
-msgid ""
-"Enter target email address that will receive messages from contact form."
-msgstr ""
-
-#: admin/theme-settings.php:798
-msgid "Footer"
-msgstr ""
-
-#: admin/theme-settings.php:801
-msgid "Do you want to display Twitter tweet above footer ?"
-msgstr ""
-
-#: admin/theme-settings.php:807
-msgid "Consumer Key"
 msgstr ""
 
 #: admin/theme-settings.php:808
@@ -949,118 +1362,36 @@ msgid ""
 "for details."
 msgstr ""
 
-#: admin/theme-settings.php:813
-msgid "Consumer Secret"
-msgstr ""
-
-#: admin/theme-settings.php:814
-msgid "Provide Your Twitter Application Consumer Secret."
-msgstr ""
-
-#: admin/theme-settings.php:819
-msgid "Access Token"
-msgstr ""
-
-#: admin/theme-settings.php:820
-msgid "Provide Your Twitter Application Access Token."
-msgstr ""
-
-#: admin/theme-settings.php:825
-msgid "Access Token Secret"
-msgstr ""
-
-#: admin/theme-settings.php:826
-msgid "Provide Your Twitter Application Access Token Secret."
-msgstr ""
-
-#: admin/theme-settings.php:831
-msgid "Twitter Username"
-msgstr ""
-
-#: admin/theme-settings.php:832
-msgid "Provide Twitter Username to Show tweets in footer."
-msgstr ""
-
-#: admin/theme-settings.php:837
-msgid "Twitter Background Color"
-msgstr ""
-
 #: admin/theme-settings.php:838
 msgid "Choose Twitter Background Color. Base Theme Color is #4099ac"
-msgstr ""
-
-#: admin/theme-settings.php:843
-msgid "Footer Logo"
 msgstr ""
 
 #: admin/theme-settings.php:844
 msgid "Upload the small logo of your website for footer area."
 msgstr ""
 
-#: admin/theme-settings.php:849
-msgid "About Text"
-msgstr ""
-
 #: admin/theme-settings.php:850
 msgid "Short text information about your organization."
-msgstr ""
-
-#: admin/theme-settings.php:855
-msgid "Read More Link"
-msgstr ""
-
-#: admin/theme-settings.php:856
-msgid "Provide Target URL for Read More button in footer."
-msgstr ""
-
-#: admin/theme-settings.php:861
-msgid "Footer Background Color"
 msgstr ""
 
 #: admin/theme-settings.php:862
 msgid "Choose a Background Color for Footer. Base Theme Color is #2B2E2F"
 msgstr ""
 
-#: admin/theme-settings.php:867
-msgid "Footer Text Color"
-msgstr ""
-
 #: admin/theme-settings.php:868
 msgid "Choose a Text Color for Footer. Base Theme Color is #808080"
-msgstr ""
-
-#: admin/theme-settings.php:873
-msgid "Footer Link Color"
 msgstr ""
 
 #: admin/theme-settings.php:874
 msgid "Choose a Link Color for Footer. Base Theme Color is #CDCDCD"
 msgstr ""
 
-#: admin/theme-settings.php:879
-msgid "Footer Link Hover Color"
-msgstr ""
-
 #: admin/theme-settings.php:880
 msgid "Choose a Link Hover Color for Footer. Base Theme Color is #48A2B6"
 msgstr ""
 
-#: admin/theme-settings.php:885
-msgid "Copyright Text"
-msgstr ""
-
-#: admin/theme-settings.php:886
-msgid ""
-"Enter Footer Copyright Text here. For bold text wrap your text in span tag. "
-"<br /> &lt; span &gt;Your Text &lt; /span &gt;"
-msgstr ""
-
 #: admin/theme-settings.php:891
 msgid "Footer Right Side Text"
-msgstr ""
-
-#: admin/theme-settings.php:892
-msgid "Enter text that will appear on the right side of footer."
 msgstr ""
 
 #: archive.php:8
@@ -1075,7 +1406,7 @@ msgstr ""
 msgid "Archive for"
 msgstr ""
 
-#: archive.php:20 archive.php:26 archive.php:32 functions.php:594
+#: archive.php:20 archive.php:26 archive.php:32 functions.php:713
 #: sections/twitter.php:104
 #, php-format
 msgid "%s"
@@ -1136,137 +1467,147 @@ msgstr[1] ""
 msgid "Comments are closed."
 msgstr ""
 
-#: functions.php:21
+#: functions.php:26
 msgid "Main Menu"
 msgstr ""
 
-#: functions.php:357 functions.php:475
+#: functions.php:476 functions.php:594
 msgid "Unverified Nonce!"
 msgstr ""
 
-#: functions.php:368 functions.php:486 functions.php:807
+#: functions.php:487 functions.php:605 functions.php:1033
 msgid "Wrong Code!"
 msgstr ""
 
-#: functions.php:380 functions.php:498
+#: functions.php:499 functions.php:617
 msgid "Target Email address is not properly configured!"
 msgstr ""
 
-#: functions.php:395 functions.php:514
+#: functions.php:514 functions.php:633
 msgid "Provided Email address is invalid!"
 msgstr ""
 
-#: functions.php:400
+#: functions.php:519
 msgid "You Have Received an Appointment Request from"
 msgstr ""
 
-#: functions.php:402
+#: functions.php:521
 msgid "You have received an appointment request from"
 msgstr ""
 
-#: functions.php:405 template-contact.php:127
+#: functions.php:524 template-contact.php:127
 #: widgets/appointment-widget.php:29 widgets/location-widget.php:36
 msgid "Phone:"
 msgstr ""
 
-#: functions.php:408 template-contact.php:132 widgets/location-widget.php:89
+#: functions.php:527 template-contact.php:132 widgets/location-widget.php:89
 msgid "Email:"
 msgstr ""
 
-#: functions.php:410
+#: functions.php:529
 msgid "Appointment Date:"
 msgstr ""
 
-#: functions.php:412 functions.php:524
+#: functions.php:531 functions.php:643
 msgid "Their additional message is as follows."
 msgstr ""
 
-#: functions.php:416 functions.php:528
+#: functions.php:535 functions.php:647
 msgid "You can contact"
 msgstr ""
 
-#: functions.php:416
+#: functions.php:535
 msgid "via email"
 msgstr ""
 
-#: functions.php:419
+#: functions.php:538
 msgid "OR via phone"
 msgstr ""
 
-#: functions.php:432
+#: functions.php:551
 msgid "Appointment Request Sent Successfully!"
 msgstr ""
 
-#: functions.php:439 functions.php:544
+#: functions.php:558 functions.php:663
 msgid "Server Error: WordPress mail function failed!"
 msgstr ""
 
-#: functions.php:448 functions.php:553
+#: functions.php:567 functions.php:672
 msgid "Invalid Request !"
 msgstr ""
 
-#: functions.php:519
+#: functions.php:638
 msgid "New message sent by"
 msgstr ""
 
-#: functions.php:519
+#: functions.php:638
 msgid "using contact form at"
 msgstr ""
 
-#: functions.php:521
+#: functions.php:640
 msgid "You have Received a message from: "
 msgstr ""
 
-#: functions.php:528
+#: functions.php:647
 msgid "via email,"
 msgstr ""
 
-#: functions.php:539
+#: functions.php:658
 msgid "Message Sent Successfully!"
 msgstr ""
 
-#: functions.php:579
+#: functions.php:698
 msgid "Pingback:"
 msgstr ""
 
-#: functions.php:579
+#: functions.php:698
 msgid "(Edit)"
 msgstr ""
 
-#: functions.php:601
+#: functions.php:720
 #, php-format
 msgid "%1$s at %2$s"
 msgstr ""
 
-#: functions.php:611
+#: functions.php:730
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
-#: functions.php:616
+#: functions.php:735
 msgid "Edit"
 msgstr ""
 
-#: functions.php:667
+#: functions.php:786
 msgid "First"
 msgstr ""
 
-#: functions.php:668
+#: functions.php:787
 msgid "Previous"
 msgstr ""
 
-#: functions.php:677
+#: functions.php:796
 msgid "Next"
 msgstr ""
 
-#: functions.php:678
+#: functions.php:797
 msgid "Last"
 msgstr ""
 
-#: functions.php:806
+#: functions.php:831
+msgctxt "Open Sans Round font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:832
+msgctxt "Droid Sans Round font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:1032
 msgid "Go to..."
 msgstr ""
 
-#: header.php:122
+#: header.php:111
 msgid "Search"
 msgstr ""
 
@@ -1988,7 +2329,7 @@ msgstr ""
 #: widgets/footer-info-widget.php:14
 msgid ""
 "Note: Please provide footer logo, footer about text and footer read more "
-"button link in Theme Options."
+"button link in Customizer."
 msgstr ""
 
 #: widgets/footer-info-widget.php:43
