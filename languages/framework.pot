@@ -1,0 +1,1868 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: HealthPress Theme\n"
+"POT-Creation-Date: 2018-10-04 22:49+0500\n"
+"PO-Revision-Date: 2018-10-04 22:49+0500\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:4
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:5
+msgid "Perhaps Navigation &amp; Search might help!"
+msgstr ""
+
+#: 404.php:11
+msgid "Apologies, The page you requested could not be found!"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"Please try Navigation at the top or Search box to find what you are looking "
+"for!"
+msgstr ""
+
+#: admin/customizer/blog.php:15 archive.php:37
+msgid "Blog"
+msgstr ""
+
+#: admin/customizer/blog.php:20
+msgid "Blog <span>Section</span>"
+msgstr ""
+
+#: admin/customizer/blog.php:25
+msgid "Blog Title"
+msgstr ""
+
+#: admin/customizer/blog.php:26
+msgid ""
+"You can wrap the words in &lt;span&gt;&lt;/span&gt; tag to high-light them."
+msgstr ""
+
+#: admin/customizer/blog.php:40 admin/customizer/gallery.php:40
+#: admin/customizer/service.php:36
+msgid "Text Below Title"
+msgstr ""
+
+#: admin/customizer/blog.php:41
+msgid "This text will appear below main blog title."
+msgstr ""
+
+#: admin/customizer/blog.php:55
+msgid "Do you want to open blog post image in lightbox ?"
+msgstr ""
+
+#: admin/customizer/blog.php:60 admin/customizer/contact.php:31
+#: admin/customizer/doctors-temp.php:29 admin/customizer/footer.php:39
+#: admin/customizer/gallery.php:78 admin/customizer/general.php:32
+#: admin/customizer/general.php:55 admin/customizer/header.php:197
+#: admin/customizer/header.php:439 admin/customizer/home.php:76
+#: admin/customizer/home.php:94 admin/customizer/home.php:229
+#: admin/customizer/home.php:326 admin/customizer/home.php:683
+#: admin/customizer/home.php:730 admin/customizer/home.php:773
+#: admin/customizer/home.php:829 admin/customizer/home.php:919
+msgid "Yes"
+msgstr ""
+
+#: admin/customizer/blog.php:61 admin/customizer/contact.php:32
+#: admin/customizer/doctors-temp.php:30 admin/customizer/footer.php:40
+#: admin/customizer/gallery.php:79 admin/customizer/general.php:33
+#: admin/customizer/general.php:56 admin/customizer/header.php:198
+#: admin/customizer/header.php:440 admin/customizer/home.php:77
+#: admin/customizer/home.php:93 admin/customizer/home.php:230
+#: admin/customizer/home.php:327 admin/customizer/home.php:684
+#: admin/customizer/home.php:729 admin/customizer/home.php:774
+#: admin/customizer/home.php:830 admin/customizer/home.php:920
+msgid "No"
+msgstr ""
+
+#: admin/customizer/contact.php:15
+msgid "Contact"
+msgstr ""
+
+#: admin/customizer/contact.php:26
+msgid "Do you want to show Google Map on contact page template?"
+msgstr ""
+
+#: admin/customizer/contact.php:45
+msgid "Google Map Latitude"
+msgstr ""
+
+#: admin/customizer/contact.php:61
+msgid "Google Map Longitude"
+msgstr ""
+
+#: admin/customizer/contact.php:74
+msgid "Google Maps API Key"
+msgstr ""
+
+#: admin/customizer/contact.php:88
+msgid "Address for Google Map"
+msgstr ""
+
+#: admin/customizer/contact.php:89
+msgid ""
+"If you do not want to use Latitude and Longitude options then provide the "
+"google map address of your location."
+msgstr ""
+
+#: admin/customizer/contact.php:106
+msgid "Google Map Zoom"
+msgstr ""
+
+#: admin/customizer/contact.php:121
+msgid "Address"
+msgstr ""
+
+#: admin/customizer/contact.php:122
+msgid "This address will appear above contact form section."
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: admin/customizer/contact.php:133
+msgid "Contact Us"
+msgstr ""
+
+#: admin/customizer/contact.php:138
+msgid "Contact Form Heading"
+msgstr ""
+
+#: admin/customizer/contact.php:148
+msgid ""
+"Fill out the form below to send us a message and we will get back to you "
+"ASAP."
+msgstr ""
+
+#: admin/customizer/contact.php:153
+msgid "Contact Form Text Below Heading"
+msgstr ""
+
+#: admin/customizer/contact.php:168
+msgid "Contact Email"
+msgstr ""
+
+#: admin/customizer/contact.php:169
+msgid ""
+"Enter target email address that will receive messages from contact form."
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:14
+msgid "Doctors Template"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:24 admin/customizer/home.php:768
+msgid "Do you want to replace doctor contents with doctor intro text ?"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:43
+msgid "Number of Doctors to display on Two Columns Doctors Template"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:48 admin/customizer/home.php:969
+#: admin/customizer/service.php:67
+msgid "2"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:49 admin/customizer/doctors-temp.php:69
+#: admin/customizer/home.php:747 admin/customizer/home.php:873
+#: admin/customizer/home.php:971 admin/customizer/service.php:69
+#: admin/customizer/service.php:117
+msgid "4"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:50 admin/customizer/home.php:749
+#: admin/customizer/home.php:875 admin/customizer/home.php:973
+#: admin/customizer/service.php:71 admin/customizer/service.php:93
+msgid "6"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:51 admin/customizer/doctors-temp.php:70
+#: admin/customizer/home.php:751 admin/customizer/home.php:877
+#: admin/customizer/home.php:975 admin/customizer/service.php:73
+#: admin/customizer/service.php:118
+msgid "8"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:52 admin/customizer/home.php:753
+#: admin/customizer/home.php:879 admin/customizer/home.php:977
+#: admin/customizer/service.php:75
+msgid "10"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:64
+msgid "Number of Doctors to display on Four Columns Doctors Template"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:71 admin/customizer/home.php:755
+#: admin/customizer/home.php:881 admin/customizer/service.php:95
+#: admin/customizer/service.php:119
+msgid "12"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:72 admin/customizer/service.php:120
+msgid "16"
+msgstr ""
+
+#: admin/customizer/doctors-temp.php:73 admin/customizer/service.php:121
+msgid "20"
+msgstr ""
+
+#: admin/customizer/footer.php:16
+msgid "Footer"
+msgstr ""
+
+#: admin/customizer/footer.php:22
+msgid "Twitter Setup"
+msgstr ""
+
+#: admin/customizer/footer.php:34
+msgid "Do you want to display Twitter tweet above footer ?"
+msgstr ""
+
+#: admin/customizer/footer.php:53
+msgid "Consumer Key"
+msgstr ""
+
+#: admin/customizer/footer.php:54
+msgid ""
+"You need to register a twitter application and provide its consumer key here."
+msgstr ""
+
+#: admin/customizer/footer.php:68
+msgid "Consumer Secret"
+msgstr ""
+
+#: admin/customizer/footer.php:69
+msgid "Provide Your Twitter Application Consumer Secret."
+msgstr ""
+
+#: admin/customizer/footer.php:84
+msgid "Access Token"
+msgstr ""
+
+#: admin/customizer/footer.php:85
+msgid "Provide Your Twitter Application Access Token."
+msgstr ""
+
+#: admin/customizer/footer.php:100
+msgid "Access Token Secret"
+msgstr ""
+
+#: admin/customizer/footer.php:101
+msgid "Provide Your Twitter Application Access Token Secret."
+msgstr ""
+
+#: admin/customizer/footer.php:116
+msgid "Twitter Username"
+msgstr ""
+
+#: admin/customizer/footer.php:117
+msgid "Provide Twitter Username to Show tweets in footer."
+msgstr ""
+
+#: admin/customizer/footer.php:132
+msgid "Twitter Background Color"
+msgstr ""
+
+#: admin/customizer/footer.php:144
+msgid "Footer Contents"
+msgstr ""
+
+#: admin/customizer/footer.php:155
+msgid "Footer Logo"
+msgstr ""
+
+#: admin/customizer/footer.php:163
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis adipiscing id "
+"nulla vel lorem dapibus fringilla eget non felis, porttitor lectus."
+msgstr ""
+
+#: admin/customizer/footer.php:168
+msgid "About Text"
+msgstr ""
+
+#: admin/customizer/footer.php:182
+msgid "Read More Link"
+msgstr ""
+
+#: admin/customizer/footer.php:183
+msgid "Provide Target URL for Read More button in footer."
+msgstr ""
+
+#: admin/customizer/footer.php:193
+msgid "&copy; 2015"
+msgstr ""
+
+#: admin/customizer/footer.php:198
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/customizer/footer.php:199
+msgid ""
+"Enter Footer Copyright Text here. For bold text wrap your text in span tag."
+msgstr ""
+
+#: admin/customizer/footer.php:213
+msgid "Right Side Text"
+msgstr ""
+
+#: admin/customizer/footer.php:214
+msgid "Enter text that will appear on the right side of footer."
+msgstr ""
+
+#: admin/customizer/footer.php:226
+msgid "Footer Colors"
+msgstr ""
+
+#: admin/customizer/footer.php:238
+msgid "Footer Background Color"
+msgstr ""
+
+#: admin/customizer/footer.php:252
+msgid "Footer Text Color"
+msgstr ""
+
+#: admin/customizer/footer.php:266
+msgid "Footer Link Color"
+msgstr ""
+
+#: admin/customizer/footer.php:280
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: admin/customizer/gallery.php:15
+msgid "Gallery"
+msgstr ""
+
+#: admin/customizer/gallery.php:21
+msgid "Our <span>Gallery</span>"
+msgstr ""
+
+#: admin/customizer/gallery.php:26
+msgid "Gallery Item Detail Page Title"
+msgstr ""
+
+#: admin/customizer/gallery.php:27
+msgid ""
+"This title will appear on Individual Gallery Item Detail Page. You can wrap "
+"the words in &lt;span&gt;&lt;/span&gt; tag to high-light them."
+msgstr ""
+
+#: admin/customizer/gallery.php:54
+msgid "Default Gallery Layout"
+msgstr ""
+
+#: admin/customizer/gallery.php:59
+msgid "2 Columns"
+msgstr ""
+
+#: admin/customizer/gallery.php:60
+msgid "3 Columns"
+msgstr ""
+
+#: admin/customizer/gallery.php:61
+msgid "4 Columns"
+msgstr ""
+
+#: admin/customizer/gallery.php:73
+msgid "Do you want to enable Image Slider on Gallery Item Detail Page ?"
+msgstr ""
+
+#: admin/customizer/general.php:12
+msgid "Misc"
+msgstr ""
+
+#: admin/customizer/general.php:27
+msgid "Do you want to disable CAPTCHA in Appointment Widget and Contact page ?"
+msgstr ""
+
+#: admin/customizer/general.php:50
+msgid "Do you want to disable Responsive Styles ?"
+msgstr ""
+
+#: admin/customizer/header.php:19
+msgid "Site Logo"
+msgstr ""
+
+#: admin/customizer/header.php:32
+msgid "Header"
+msgstr ""
+
+#: admin/customizer/header.php:45
+msgid "Main Menu Colors"
+msgstr ""
+
+#: admin/customizer/header.php:61
+msgid "Main Menu Background Color"
+msgstr ""
+
+#: admin/customizer/header.php:62
+msgid ""
+"Background Color for Main Menu. This will also be applied to appointment "
+"widget and scroll top button."
+msgstr ""
+
+#: admin/customizer/header.php:78
+msgid "Main Menu Text Color"
+msgstr ""
+
+#: admin/customizer/header.php:79
+msgid ""
+"Text Color for Main Menu. This will also be applied to appointment widget."
+msgstr ""
+
+#: admin/customizer/header.php:95
+msgid "Main Menu Text Shadow Color"
+msgstr ""
+
+#: admin/customizer/header.php:96
+msgid ""
+"Choose a Text Shadow Color for Menu. This will also be applied to "
+"appointment widget.."
+msgstr ""
+
+#: admin/customizer/header.php:113
+msgid "Main Menu Border Color"
+msgstr ""
+
+#: admin/customizer/header.php:114
+msgid "Choose a Border Color for Menu Item."
+msgstr ""
+
+#: admin/customizer/header.php:131
+msgid "Main Menu Hover Background Color"
+msgstr ""
+
+#: admin/customizer/header.php:132
+msgid "Choose a Hover Background Color for Top Menu."
+msgstr ""
+
+#: admin/customizer/header.php:148
+msgid "Sub Menu Hover Background Color"
+msgstr ""
+
+#: admin/customizer/header.php:149
+msgid "Choose a Hover Background Color for Sub Menu Item."
+msgstr ""
+
+#: admin/customizer/header.php:160
+msgid "Google Analytics Code"
+msgstr ""
+
+#: admin/customizer/header.php:170
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/customizer/header.php:181
+msgid "Social Navigation"
+msgstr ""
+
+#: admin/customizer/header.php:192
+msgid "Do you want to show social navigation ?"
+msgstr ""
+
+#: admin/customizer/header.php:212
+msgid "Facebook"
+msgstr ""
+
+#: admin/customizer/header.php:230
+msgid "Twitter"
+msgstr ""
+
+#: admin/customizer/header.php:248
+msgid "Skype Username"
+msgstr ""
+
+#: admin/customizer/header.php:265
+msgid "Flickr"
+msgstr ""
+
+#: admin/customizer/header.php:282
+msgid "Google"
+msgstr ""
+
+#: admin/customizer/header.php:300
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/customizer/header.php:319
+msgid "Pinterest"
+msgstr ""
+
+#: admin/customizer/header.php:338
+msgid "Youtube"
+msgstr ""
+
+#: admin/customizer/header.php:357
+msgid "RSS"
+msgstr ""
+
+#: admin/customizer/header.php:376
+msgid "Instagram"
+msgstr ""
+
+#: admin/customizer/header.php:394
+msgid "Timings"
+msgstr ""
+
+#: admin/customizer/header.php:412
+msgid "Phone"
+msgstr ""
+
+#: admin/customizer/header.php:424
+msgid "Sticky Menu"
+msgstr ""
+
+#: admin/customizer/header.php:434
+msgid "Enable Sticky Menu?"
+msgstr ""
+
+#: admin/customizer/home.php:15
+msgid "Home - Slider & Slogan Area"
+msgstr ""
+
+#: admin/customizer/home.php:23
+msgid "Slider Area"
+msgstr ""
+
+#: admin/customizer/home.php:38
+msgid "What to Display Below Header on Home Page ?"
+msgstr ""
+
+#: admin/customizer/home.php:45
+msgid "Default Slider"
+msgstr ""
+
+#: admin/customizer/home.php:46
+msgid "Slider Based on Revolution Slider Plugin."
+msgstr ""
+
+#: admin/customizer/home.php:57
+msgid "Revolution Slider Alias"
+msgstr ""
+
+#: admin/customizer/home.php:58
+msgid "If you want to display Revolution Slider then provide its alias here."
+msgstr ""
+
+#: admin/customizer/home.php:71
+msgid ""
+"Do you want to enable default slider navigation tabs to go to their linked "
+"URLs ?"
+msgstr ""
+
+#: admin/customizer/home.php:88
+msgid "Disable slider auto play ?"
+msgstr ""
+
+#: admin/customizer/home.php:104
+msgid "Slider Colors"
+msgstr ""
+
+#: admin/customizer/home.php:119
+msgid "Slider Nav Background Color"
+msgstr ""
+
+#: admin/customizer/home.php:135
+msgid "Slider Nav Background Hover Color"
+msgstr ""
+
+#: admin/customizer/home.php:151
+msgid "Slider Navigation Item Border Color"
+msgstr ""
+
+#: admin/customizer/home.php:168
+msgid "Slider Navigation Title Color"
+msgstr ""
+
+#: admin/customizer/home.php:185
+msgid "Slider Navigation Title Shadow Color"
+msgstr ""
+
+#: admin/customizer/home.php:202
+msgid "Slider Navigation Sub-Title Color"
+msgstr ""
+
+#: admin/customizer/home.php:213
+msgid "Home Slogan"
+msgstr ""
+
+#: admin/customizer/home.php:224
+msgid "Do you want to display Slogan on Homepage and Services Page ?"
+msgstr ""
+
+#: admin/customizer/home.php:240
+msgid "We are proud of our organization."
+msgstr ""
+
+#: admin/customizer/home.php:245
+msgid "Slogan Text"
+msgstr ""
+
+#: admin/customizer/home.php:262
+msgid "Slogan Text Color"
+msgstr ""
+
+#: admin/customizer/home.php:278
+msgid "Slogan Sub Text"
+msgstr ""
+
+#: admin/customizer/home.php:295
+msgid "Slogan Sub Text Color"
+msgstr ""
+
+#: admin/customizer/home.php:306
+msgid "Home - Services List"
+msgstr ""
+
+#: admin/customizer/home.php:310
+msgid "Display Option"
+msgstr ""
+
+#: admin/customizer/home.php:321
+msgid ""
+"Do you want to display Serivces List with Icons on Homepage and Services "
+"Page ?"
+msgstr ""
+
+#: admin/customizer/home.php:337
+msgid "Select Image Type"
+msgstr ""
+
+#: admin/customizer/home.php:343
+msgid "Animated - (112px by 224px)"
+msgstr ""
+
+#: admin/customizer/home.php:344
+msgid "Non-Animated"
+msgstr ""
+
+#: admin/customizer/home.php:352
+msgid "More Services Button Text"
+msgstr ""
+
+#: admin/customizer/home.php:353
+msgid "Leave empty to hide button"
+msgstr ""
+
+#: admin/customizer/home.php:363
+msgid "More Services Button URL"
+msgstr ""
+
+#: admin/customizer/home.php:374
+msgid "1st service"
+msgstr ""
+
+#: admin/customizer/home.php:385
+msgid "1st Service Image"
+msgstr ""
+
+#: admin/customizer/home.php:386 admin/customizer/home.php:444
+#: admin/customizer/home.php:503 admin/customizer/home.php:561
+#: admin/customizer/home.php:620
+msgid ""
+"Upload an image with flexible width/height OR (112px by 224px) for hover "
+"effect."
+msgstr ""
+
+#: admin/customizer/home.php:393 admin/customizer/home.php:451
+#: admin/customizer/home.php:510 admin/customizer/home.php:568
+#: admin/customizer/home.php:627
+msgid "Cardiothoracic Surgery"
+msgstr ""
+
+#: admin/customizer/home.php:398
+msgid "1st Service Heading"
+msgstr ""
+
+#: admin/customizer/home.php:406 admin/customizer/home.php:464
+#: admin/customizer/home.php:523 admin/customizer/home.php:581
+#: admin/customizer/home.php:640
+msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+msgstr ""
+
+#: admin/customizer/home.php:410
+msgid "1st Service Text"
+msgstr ""
+
+#: admin/customizer/home.php:422
+msgid "1st Service Link"
+msgstr ""
+
+#: admin/customizer/home.php:433
+msgid "2nd service"
+msgstr ""
+
+#: admin/customizer/home.php:443
+msgid "2nd Service Image"
+msgstr ""
+
+#: admin/customizer/home.php:456
+msgid "2nd Service Heading"
+msgstr ""
+
+#: admin/customizer/home.php:468
+msgid "2nd Service Text"
+msgstr ""
+
+#: admin/customizer/home.php:480
+msgid "2nd Service Link"
+msgstr ""
+
+#: admin/customizer/home.php:492
+msgid "3rd service"
+msgstr ""
+
+#: admin/customizer/home.php:502
+msgid "3rd Service Image"
+msgstr ""
+
+#: admin/customizer/home.php:515
+msgid "3rd Service Heading"
+msgstr ""
+
+#: admin/customizer/home.php:527
+msgid "3rd Service Text"
+msgstr ""
+
+#: admin/customizer/home.php:539
+msgid "3rd Service Link"
+msgstr ""
+
+#: admin/customizer/home.php:550
+msgid "4th service"
+msgstr ""
+
+#: admin/customizer/home.php:560
+msgid "4th Service Image"
+msgstr ""
+
+#: admin/customizer/home.php:573
+msgid "4th Service Heading"
+msgstr ""
+
+#: admin/customizer/home.php:585
+msgid "4th Service Text"
+msgstr ""
+
+#: admin/customizer/home.php:597
+msgid "4th Service Link"
+msgstr ""
+
+#: admin/customizer/home.php:609
+msgid "5th service"
+msgstr ""
+
+#: admin/customizer/home.php:619
+msgid "5th Service Image"
+msgstr ""
+
+#: admin/customizer/home.php:632
+msgid "5th Service Heading"
+msgstr ""
+
+#: admin/customizer/home.php:644
+msgid "5th Service Text"
+msgstr ""
+
+#: admin/customizer/home.php:656
+msgid "5th Service Link"
+msgstr ""
+
+#: admin/customizer/home.php:668
+msgid "Home - Doctors"
+msgstr ""
+
+#: admin/customizer/home.php:678
+msgid "Do you want to display Doctors section on Homepage ?"
+msgstr ""
+
+#: admin/customizer/home.php:692
+msgid "Meet Our Doctors"
+msgstr ""
+
+#: admin/customizer/home.php:696
+msgid "Doctors Heading"
+msgstr ""
+
+#: admin/customizer/home.php:709
+msgid "Doctors Text"
+msgstr ""
+
+#: admin/customizer/home.php:710
+msgid "This text will appear below main heading in Doctors section."
+msgstr ""
+
+#: admin/customizer/home.php:724
+msgid "Display Random Doctors?."
+msgstr ""
+
+#: admin/customizer/home.php:741
+msgid "Choose the number of doctors to display on Homepage."
+msgstr ""
+
+#: admin/customizer/home.php:746 admin/customizer/home.php:872
+#: admin/customizer/home.php:970 admin/customizer/service.php:68
+#: admin/customizer/service.php:92
+msgid "3"
+msgstr ""
+
+#: admin/customizer/home.php:748 admin/customizer/home.php:874
+#: admin/customizer/home.php:972 admin/customizer/service.php:70
+msgid "5"
+msgstr ""
+
+#: admin/customizer/home.php:750 admin/customizer/home.php:876
+#: admin/customizer/home.php:974 admin/customizer/service.php:72
+msgid "7"
+msgstr ""
+
+#: admin/customizer/home.php:752 admin/customizer/home.php:878
+#: admin/customizer/home.php:976 admin/customizer/service.php:74
+#: admin/customizer/service.php:94
+msgid "9"
+msgstr ""
+
+#: admin/customizer/home.php:754 admin/customizer/home.php:880
+msgid "11"
+msgstr ""
+
+#: admin/customizer/home.php:783
+msgid "More Doctors"
+msgstr ""
+
+#: admin/customizer/home.php:788
+msgid "More Doctors Button Title"
+msgstr ""
+
+#: admin/customizer/home.php:798
+msgid "#"
+msgstr ""
+
+#: admin/customizer/home.php:803
+msgid "More Doctors Link"
+msgstr ""
+
+#: admin/customizer/home.php:815
+msgid "Home - Blog"
+msgstr ""
+
+#: admin/customizer/home.php:824
+msgid "Do you want to display Blog section on Homepage ?"
+msgstr ""
+
+#: admin/customizer/home.php:840
+msgid "Blog Section Heading"
+msgstr ""
+
+#: admin/customizer/home.php:852
+msgid "Blog Section Text"
+msgstr ""
+
+#: admin/customizer/home.php:853
+msgid "This text will appear below main heading in Blog section."
+msgstr ""
+
+#: admin/customizer/home.php:867
+msgid "Choose the number of news to display on Homepage."
+msgstr ""
+
+#: admin/customizer/home.php:892
+msgid "More News Button Title"
+msgstr ""
+
+#: admin/customizer/home.php:904
+msgid "Home - Testimonials"
+msgstr ""
+
+#: admin/customizer/home.php:914
+msgid "Do you want to display Testimonials section on Homepage ?"
+msgstr ""
+
+#: admin/customizer/home.php:928
+msgid "What our patients say"
+msgstr ""
+
+#: admin/customizer/home.php:933
+msgid "Testimonials Heading"
+msgstr ""
+
+#: admin/customizer/home.php:947
+msgid "Testimonials Text"
+msgstr ""
+
+#: admin/customizer/home.php:948
+msgid "This text will appear below main heading in Testimonials section."
+msgstr ""
+
+#: admin/customizer/home.php:963
+msgid "Number of Testimonials to display on Homepage."
+msgstr ""
+
+#: admin/customizer/home.php:968 admin/customizer/service.php:66
+msgid "1"
+msgstr ""
+
+#: admin/customizer/service.php:11
+msgid "Service Detail Page"
+msgstr ""
+
+#: admin/customizer/service.php:16
+msgid "Our <span>Services</span>"
+msgstr ""
+
+#: admin/customizer/service.php:21
+msgid "Service Detail Page Title"
+msgstr ""
+
+#: admin/customizer/service.php:22
+msgid ""
+"This title will appear on Individual Service Detail Page. You can wrap the "
+"words in &lt;span&gt;&lt;/span&gt; tag to high-light them."
+msgstr ""
+
+#: admin/customizer/service.php:37
+msgid "This text will appear below Service title."
+msgstr ""
+
+#: admin/customizer/service.php:49
+msgid "Services Templates"
+msgstr ""
+
+#: admin/customizer/service.php:61
+msgid "Number of Services to display on One Column Services Template"
+msgstr ""
+
+#: admin/customizer/service.php:87
+msgid "Number of Services to display on Three Columns Services Template"
+msgstr ""
+
+#: admin/customizer/service.php:96
+msgid "15"
+msgstr ""
+
+#: admin/customizer/service.php:97
+msgid "18"
+msgstr ""
+
+#: admin/customizer/service.php:98
+msgid "21"
+msgstr ""
+
+#: admin/customizer/service.php:99 admin/customizer/service.php:122
+msgid "24"
+msgstr ""
+
+#: admin/customizer/service.php:100
+msgid "27"
+msgstr ""
+
+#: admin/customizer/service.php:112
+msgid "Number of Services to display on Four Columns Services Template"
+msgstr ""
+
+#: admin/customizer/service.php:123
+msgid "28"
+msgstr ""
+
+#: admin/customizer/styling.php:20
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/customizer/styling.php:35
+msgid "Headings Color"
+msgstr ""
+
+#: admin/customizer/styling.php:50
+msgid "Main Title Color"
+msgstr ""
+
+#: admin/customizer/styling.php:65
+msgid "Highlight Color"
+msgstr ""
+
+#: admin/customizer/styling.php:66
+msgid "Choose a color for highligted items and text throug-out the theme."
+msgstr ""
+
+#: admin/customizer/styling.php:82
+msgid "Selection Background Color"
+msgstr ""
+
+#: admin/customizer/styling.php:97
+msgid "Link Color"
+msgstr ""
+
+#: admin/customizer/styling.php:112
+msgid "Link Hover Color"
+msgstr ""
+
+#: admin/customizer/styling.php:127
+msgid "Button Background Color"
+msgstr ""
+
+#: admin/customizer/styling.php:142
+msgid "Button Text Color"
+msgstr ""
+
+#: admin/customizer/styling.php:158
+msgid "Button Text Shadow Color"
+msgstr ""
+
+#: admin/customizer/styling.php:174
+msgid "Sidebar Widget Title Color"
+msgstr ""
+
+#: admin/customizer/styling.php:189
+msgid "Quick Css"
+msgstr ""
+
+#: admin/customizer/styling.php:190
+msgid ""
+"Just want to do some quick CSS changes? Enter them here, they will be "
+"applied to the theme. If you need to change major portions of the theme "
+"please use the custom.css file."
+msgstr ""
+
+#: archive.php:7
+msgid "All posts in"
+msgstr ""
+
+#: archive.php:12
+msgid "All Posts tagged "
+msgstr ""
+
+#: archive.php:17 archive.php:22 archive.php:27
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:18 archive.php:23 archive.php:28 functions.php:398
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: archive.php:33
+msgid "All posts by"
+msgstr ""
+
+#: archive.php:37
+msgid "Archives"
+msgstr ""
+
+#: archive.php:66 index.php:31 search.php:30 single.php:31
+msgid "By"
+msgstr ""
+
+#: archive.php:100 index.php:61 search.php:62 single.php:61
+msgid "0 Comments"
+msgstr ""
+
+#: archive.php:100 index.php:61 search.php:62 single.php:61
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:100 index.php:61 search.php:62 single.php:61
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:119 index.php:73 search.php:78 taxonomy-department.php:56
+#: template-doctors-four-columns.php:104 template-doctors-two-columns.php:105
+#: template-services-four-columns.php:68 template-services-one-column.php:67
+#: template-services-three-columns.php:71
+msgid "More"
+msgstr ""
+
+#: archive.php:127 index.php:81 search.php:86
+msgid "No Posts Found"
+msgstr ""
+
+#: archive.php:128 search.php:87
+msgid "Please try a different search term!"
+msgstr ""
+
+#: comments.php:5
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:15
+#, php-format
+msgid "Comments (%1$s)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:27
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:383
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:383
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:407
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:417
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:422
+msgid "Edit"
+msgstr ""
+
+#: functions.php:475
+msgid "First"
+msgstr ""
+
+#: functions.php:479
+msgid "Previous"
+msgstr ""
+
+#: functions.php:493
+msgid "Next"
+msgstr ""
+
+#: functions.php:497
+msgid "Last"
+msgstr ""
+
+#: functions.php:520
+msgctxt "Open Sans Round font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:521
+msgctxt "Droid Sans Round font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:723
+msgid "Go to..."
+msgstr ""
+
+#: functions.php:724
+msgid "Wrong Code!"
+msgstr ""
+
+#: header.php:170
+msgid "Search"
+msgstr ""
+
+#: include/demo-import/demo-import.php:10
+msgid "HealthPress Demo Import"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: include/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: include/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: include/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: include/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: include/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: include/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: include/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: include/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:393
+#: include/tgm/class-tgm-plugin-activation.php:912
+#: include/tgm/class-tgm-plugin-activation.php:2618
+#: include/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:394
+#: include/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:395
+#: include/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: include/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: include/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:1019
+#: include/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:1206
+#: include/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: include/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: include/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: include/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: include/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: include/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: include/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: include/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: include/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: include/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: include/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: include/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:3594
+#: include/tgm/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:3594
+#: include/tgm/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: include/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: include/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: include/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/tgm/tgm-plugins.php:31
+msgid "One Click Demo Import"
+msgstr ""
+
+#: index.php:82
+msgid "Perhaps top Navigation or Search will help!"
+msgstr ""
+
+#: page.php:59 single.php:76 template-faq.php:87 template-testimonials.php:108
+msgid "Pages"
+msgstr ""
+
+#: search.php:4
+msgid "Search Results For"
+msgstr ""
+
+#: sections/appointment-form.php:6
+msgid "OR"
+msgstr ""
+
+#: sections/appointment-form.php:12 sections/appointment-form.php:14
+msgid "Full Name"
+msgstr ""
+
+#: sections/appointment-form.php:15
+msgid "* Please enter your Full Name"
+msgstr ""
+
+#: sections/appointment-form.php:18 sections/appointment-form.php:20
+msgid "Phone Number"
+msgstr ""
+
+#: sections/appointment-form.php:21
+msgid "* Please enter your Phone Number"
+msgstr ""
+
+#: sections/appointment-form.php:24 sections/appointment-form.php:26
+#: template-contact.php:127
+msgid "Email Address"
+msgstr ""
+
+#: sections/appointment-form.php:27
+msgid "* Please enter valid Email Address"
+msgstr ""
+
+#: sections/appointment-form.php:31 sections/appointment-form.php:33
+msgid "Appointment Date"
+msgstr ""
+
+#: sections/appointment-form.php:34
+msgid "* Please select desired appointment date"
+msgstr ""
+
+#: sections/appointment-form.php:38 sections/appointment-form.php:40
+#: template-contact.php:141
+msgid "Message"
+msgstr ""
+
+#: sections/appointment-form.php:41 template-contact.php:142
+msgid "* Please enter your message"
+msgstr ""
+
+#: sections/appointment-form.php:52 template-contact.php:154
+msgid "* Please enter the code characters displayed in image!"
+msgstr ""
+
+#: sections/appointment-form.php:59
+msgid "Submit Request"
+msgstr ""
+
+#: sections/blog-post-home-full-width.php:14
+#: sections/blog-posts-for-home.php:14
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: sections/blog-post-home-full-width.php:99
+#: sections/blog-posts-for-home.php:87
+msgid "More Blog Posts"
+msgstr ""
+
+#: sections/gallery.php:20
+msgid "All"
+msgstr ""
+
+#: sections/gallery.php:25
+#, php-format
+msgid "View all Gallery Items filed under %s"
+msgstr ""
+
+#: taxonomy-department.php:9
+msgid " Department"
+msgstr ""
+
+#: taxonomy-faq-group.php:6
+msgid "FAQs"
+msgstr ""
+
+#: taxonomy-gallery-item-type.php:6
+msgid "Gallery Items"
+msgstr ""
+
+#: template-contact.php:113
+msgid "Name:"
+msgstr ""
+
+#: template-contact.php:114
+msgid "Name"
+msgstr ""
+
+#: template-contact.php:116
+msgid "* Please provide your name"
+msgstr ""
+
+#: template-contact.php:120
+msgid "Phone:"
+msgstr ""
+
+#: template-contact.php:121
+msgid "Phone No."
+msgstr ""
+
+#: template-contact.php:126
+msgid "Email:"
+msgstr ""
+
+#: template-contact.php:129
+msgid "* Please enter your email address"
+msgstr ""
+
+#: template-contact.php:133
+msgid "Subject:"
+msgstr ""
+
+#: template-contact.php:134
+msgid "Subject"
+msgstr ""
+
+#: template-contact.php:139
+msgid "Message:"
+msgstr ""
+
+#: template-contact.php:150
+msgid "Are you human? "
+msgstr ""
+
+#: template-contact.php:161
+msgid "Submit"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "HealthPress Theme"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/healthpress-health-and-medical-wordpress-"
+"theme/3138064"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A beautifully designed theme, for health and medical related websites and "
+"blogs."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "InspiryThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.InspiryThemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Doctors Four Columns"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Testimonials Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "FAQ Fullwidth Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home with Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Four Columns Gallery"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home with blog posts"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Two Columns Gallery"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Services Four Columns"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Three Columns Gallery"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "FAQ Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Services Three Columns"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Services One Column"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Doctors Two Columns"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Full Width"
+msgstr ""
