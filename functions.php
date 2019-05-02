@@ -22,7 +22,7 @@ if ( ! function_exists( 'inspiry_enqueue_child_styles' ) ) {
 			wp_enqueue_style( 'parent-custom' );
 
 			// child default css
-			wp_enqueue_style( 'child-default', get_stylesheet_uri(), array( 'parent-default' ), '1.4', 'all' );
+			wp_enqueue_style( 'child-default', get_stylesheet_uri(), array( 'parent-default' ), '1.6.0', 'all' );
 
 			// child custom css
 			wp_enqueue_style( 'child-custom', get_stylesheet_directory_uri() . '/css/child-custom.css', array( 'child-default' ), '1.0', 'all' );

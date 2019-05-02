@@ -1,17 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "Project-Id-Version: HealthPress Theme\n"
-"POT-Creation-Date: 2019-05-01 21:39+0500\n"
-"PO-Revision-Date: 2019-05-01 21:39+0500\n"
+"POT-Creation-Date: 2019-05-01 21:44+0500\n"
+"PO-Revision-Date: 2019-05-01 21:44+0500\n"
 "Last-Translator: \n"
 "Language-Team: \n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.2.1\n"
 "X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: style.css\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -23,38 +23,42 @@ msgstr ""
 
 #: 404.php:4
 msgid "Page Not Found"
-msgstr ""
+msgstr "Página no encontrada"
 
 #: 404.php:5
 msgid "Perhaps Navigation &amp; Search might help!"
-msgstr ""
+msgstr "¡Quizás el menú y una búsqueda te puedan ayudar!"
 
 #: 404.php:11
 msgid "Apologies, The page you requested could not be found!"
-msgstr ""
+msgstr "Disculpa, la página que buscabas no se pudo encontrar!"
 
 #: 404.php:12
 msgid ""
 "Please try Navigation at the top or Search box to find what you are looking "
 "for!"
 msgstr ""
+"Por favor, prueba el menú en la parte superior o la caja de búsqueda para "
+"encontrar lo que estabas buscando!"
 
 #: admin/customizer/blog.php:15 archive.php:37
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: admin/customizer/blog.php:20
 msgid "Blog <span>Section</span>"
-msgstr ""
+msgstr "Blog <span>Sección</span>"
 
 #: admin/customizer/blog.php:25
 msgid "Blog Title"
-msgstr ""
+msgstr "Titulo de Blog"
 
 #: admin/customizer/blog.php:26
 msgid ""
 "You can wrap the words in &lt;span&gt;&lt;/span&gt; tag to high-light them."
 msgstr ""
+"Puede rodear las palabras con la etiqueta &lt;span&gt;&lt;/span&gt; para "
+"resaltarlas."
 
 #: admin/customizer/blog.php:40 admin/customizer/gallery.php:40
 #: admin/customizer/service.php:36
@@ -63,11 +67,11 @@ msgstr ""
 
 #: admin/customizer/blog.php:41
 msgid "This text will appear below main blog title."
-msgstr ""
+msgstr "Este texto aparecerá debajo del título del blog principal."
 
 #: admin/customizer/blog.php:55
 msgid "Do you want to open blog post image in lightbox ?"
-msgstr ""
+msgstr "¿Desea abrir la imagen de post de blog en la caja de luz?"
 
 #: admin/customizer/blog.php:60 admin/customizer/contact.php:31
 #: admin/customizer/doctors-temp.php:29 admin/customizer/gallery.php:78
@@ -78,7 +82,7 @@ msgstr ""
 #: admin/customizer/home.php:735 admin/customizer/home.php:778
 #: admin/customizer/home.php:835 admin/customizer/home.php:925
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 #: admin/customizer/blog.php:61 admin/customizer/contact.php:32
 #: admin/customizer/doctors-temp.php:30 admin/customizer/gallery.php:79
@@ -89,138 +93,146 @@ msgstr ""
 #: admin/customizer/home.php:734 admin/customizer/home.php:779
 #: admin/customizer/home.php:836 admin/customizer/home.php:926
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: admin/customizer/contact.php:15
 msgid "Contact"
-msgstr ""
+msgstr "Contacto"
 
 #: admin/customizer/contact.php:26
 msgid "Do you want to show Google Map on contact page template?"
 msgstr ""
+"¿Desea mostrar el mapa de Google en la plantilla de página de contacto?"
 
 #: admin/customizer/contact.php:45
 msgid "Google Map Latitude"
-msgstr ""
+msgstr "Latitud Google Maps"
 
 #: admin/customizer/contact.php:61
 msgid "Google Map Longitude"
-msgstr ""
+msgstr "Google Mapa Longitud"
 
 #: admin/customizer/contact.php:75
 msgid "Address for Google Map"
-msgstr ""
+msgstr "Dirección para Google Map"
 
 #: admin/customizer/contact.php:76
 msgid ""
 "If you do not want to use Latitude and Longitude options then provide the "
 "google map address of your location."
 msgstr ""
+"Si no desea utilizar las opciones de latitud y longitud, proporcione la "
+"dirección de mapa de Google de su ubicación."
 
 #: admin/customizer/contact.php:93
 msgid "Google Map Zoom"
-msgstr ""
+msgstr "Ampliar Google Map"
 
 #: admin/customizer/contact.php:108
 msgid "Address"
-msgstr ""
+msgstr "Dirección"
 
 #: admin/customizer/contact.php:109
 msgid "This address will appear above contact form section."
-msgstr ""
+msgstr "Esta dirección aparecerá sobre la sección de formulario de contacto."
 
 #. Template Name of the plugin/theme
 #: admin/customizer/contact.php:120
 msgid "Contact Us"
-msgstr ""
+msgstr "Contáctenos"
 
 #: admin/customizer/contact.php:125
 msgid "Contact Form Heading"
-msgstr ""
+msgstr "Contácto Formulario de partida"
 
 #: admin/customizer/contact.php:135
 msgid ""
 "Fill out the form below to send us a message and we will get back to you "
 "ASAP."
 msgstr ""
+"Rellene el siguiente formulario para enviarnos un mensaje y le contestaremos "
+"lo antes posible."
 
 #: admin/customizer/contact.php:140
 msgid "Contact Form Text Below Heading"
-msgstr ""
+msgstr "Formulario de contacto texto siguiente encabezado"
 
 #: admin/customizer/contact.php:155
 msgid "Contact Email"
-msgstr ""
+msgstr "Email de contacto"
 
 #: admin/customizer/contact.php:156
 msgid ""
 "Enter target email address that will receive messages from contact form."
 msgstr ""
+"Ingrese la dirección de correo electrónico de destino que recibirá mensajes "
+"del formulario de contacto."
 
 #: admin/customizer/doctors-temp.php:14
 msgid "Doctors Template"
-msgstr ""
+msgstr "Plantilla de Médicos"
 
 #: admin/customizer/doctors-temp.php:24 admin/customizer/home.php:773
 msgid "Do you want to replace doctor contents with doctor intro text ?"
 msgstr ""
+"¿Desea reemplazar el contenido del médico con el texto del doctor Intro?"
 
 #: admin/customizer/doctors-temp.php:43
 msgid "Number of Doctors to display on Two Columns Doctors Template"
-msgstr ""
+msgstr "Número de médicos para mostrar en dos columnas médicos plantilla"
 
 #: admin/customizer/doctors-temp.php:48 admin/customizer/home.php:975
 #: admin/customizer/service.php:67
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: admin/customizer/doctors-temp.php:49 admin/customizer/doctors-temp.php:69
 #: admin/customizer/home.php:752 admin/customizer/home.php:879
 #: admin/customizer/home.php:977 admin/customizer/service.php:69
 #: admin/customizer/service.php:117
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: admin/customizer/doctors-temp.php:50 admin/customizer/home.php:754
 #: admin/customizer/home.php:881 admin/customizer/home.php:979
 #: admin/customizer/service.php:71 admin/customizer/service.php:93
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: admin/customizer/doctors-temp.php:51 admin/customizer/doctors-temp.php:70
 #: admin/customizer/home.php:756 admin/customizer/home.php:883
 #: admin/customizer/home.php:981 admin/customizer/service.php:73
 #: admin/customizer/service.php:118
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: admin/customizer/doctors-temp.php:52 admin/customizer/home.php:758
 #: admin/customizer/home.php:885 admin/customizer/home.php:983
 #: admin/customizer/service.php:75
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: admin/customizer/doctors-temp.php:64
 msgid "Number of Doctors to display on Four Columns Doctors Template"
-msgstr ""
+msgstr "Número de médicos para mostrar en cuatro columnas médicos plantilla"
 
 #: admin/customizer/doctors-temp.php:71 admin/customizer/home.php:760
 #: admin/customizer/home.php:887 admin/customizer/service.php:95
 #: admin/customizer/service.php:119
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #: admin/customizer/doctors-temp.php:72 admin/customizer/service.php:120
 msgid "16"
-msgstr ""
+msgstr "16"
 
 #: admin/customizer/doctors-temp.php:73 admin/customizer/service.php:121
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #: admin/customizer/footer.php:16
 msgid "Footer"
-msgstr ""
+msgstr "Pie de página"
 
 #: admin/customizer/footer.php:22
 msgid "Twitter Colors"
@@ -228,33 +240,35 @@ msgstr ""
 
 #: admin/customizer/footer.php:33
 msgid "Twitter Background Color"
-msgstr ""
+msgstr "Color de fondo de Twitter"
 
 #: admin/customizer/footer.php:45
 msgid "Footer Contents"
-msgstr ""
+msgstr "Contenido del pie de página"
 
 #: admin/customizer/footer.php:57
 msgid "Footer Logo"
-msgstr ""
+msgstr "Logo en pie de página"
 
 #: admin/customizer/footer.php:65
 msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis adipiscing id "
 "nulla vel lorem dapibus fringilla eget non felis, porttitor lectus."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing Elit. DUIS adipiscing ID "
+"nulla Vel Lorem dapibus Fringilla eget non Felis, porttitor LECTUS."
 
 #: admin/customizer/footer.php:70
 msgid "About Text"
-msgstr ""
+msgstr "Texto de Acerca de"
 
 #: admin/customizer/footer.php:84
 msgid "Read More Link"
-msgstr ""
+msgstr "Enlace Leer más"
 
 #: admin/customizer/footer.php:85
 msgid "Provide Target URL for Read More button in footer."
-msgstr ""
+msgstr "Proporcione la URL para el botón de Leer Mas en el footer."
 
 #: admin/customizer/footer.php:95
 msgid "Copyright 2015"
@@ -262,7 +276,7 @@ msgstr ""
 
 #: admin/customizer/footer.php:100
 msgid "Copyright Text"
-msgstr ""
+msgstr "Texto de Copyright"
 
 #: admin/customizer/footer.php:101
 msgid ""
@@ -271,196 +285,211 @@ msgstr ""
 
 #: admin/customizer/footer.php:115
 msgid "Right Side Text"
-msgstr ""
+msgstr "Texto del lado derecho"
 
 #: admin/customizer/footer.php:116
 msgid "Enter text that will appear on the right side of footer."
-msgstr ""
+msgstr "Introduzca el texto que aparecerá en el lado derecho del footer."
 
 #: admin/customizer/footer.php:128
 msgid "Footer Colors"
-msgstr ""
+msgstr "Colores pié de página"
 
 #: admin/customizer/footer.php:140
 msgid "Footer Background Color"
-msgstr ""
+msgstr "Color de fondo de pie de página"
 
 #: admin/customizer/footer.php:154
 msgid "Footer Text Color"
-msgstr ""
+msgstr "Color del Texto del Pie de Página"
 
 #: admin/customizer/footer.php:168
 msgid "Footer Link Color"
-msgstr ""
+msgstr "Color de link del pie de página"
 
 #: admin/customizer/footer.php:182
 msgid "Footer Link Hover Color"
-msgstr ""
+msgstr "Pie de página Enlace Hover color"
 
 #: admin/customizer/gallery.php:15
 msgid "Gallery"
-msgstr ""
+msgstr "Galería"
 
 #: admin/customizer/gallery.php:21
 msgid "Our <span>Gallery</span>"
-msgstr ""
+msgstr "Nuestra <span>Galería</span>"
 
 #: admin/customizer/gallery.php:26
 msgid "Gallery Item Detail Page Title"
-msgstr ""
+msgstr "Detalle de elemento de Galería título de página"
 
 #: admin/customizer/gallery.php:27
 msgid ""
 "This title will appear on Individual Gallery Item Detail Page. You can wrap "
 "the words in &lt;span&gt;&lt;/span&gt; tag to high-light them."
 msgstr ""
+"Este título aparecerá en la página individual de detalle de elemento de "
+"galería. Puede ajustar las palabras en la etiqueta &lt; span &gt; &lt;/span "
+"&gt; para iluminarlas."
 
 #: admin/customizer/gallery.php:54
 msgid "Default Gallery Layout"
-msgstr ""
+msgstr "Diseño de Galería predeterminado"
 
 #: admin/customizer/gallery.php:59
 msgid "2 Columns"
-msgstr ""
+msgstr "2 Columnas"
 
 #: admin/customizer/gallery.php:60
 msgid "3 Columns"
-msgstr ""
+msgstr "3 columnas"
 
 #: admin/customizer/gallery.php:61
 msgid "4 Columns"
-msgstr ""
+msgstr "4 columnas"
 
 #: admin/customizer/gallery.php:73
 msgid "Do you want to enable Image Slider on Gallery Item Detail Page ?"
 msgstr ""
+"¿Desea habilitar el deslizador de imágenes en la página de detalles del "
+"elemento de Galería?"
 
 #: admin/customizer/general.php:12
 msgid "Misc"
-msgstr ""
+msgstr "Otros"
 
 #: admin/customizer/general.php:27
 msgid "Do you want to disable CAPTCHA in Appointment Widget and Contact page ?"
 msgstr ""
+"¿Desea deshabilitar CAPTCHA en el widget de citas y la página de contacto?"
 
 #: admin/customizer/general.php:50
 msgid "Do you want to disable Responsive Styles ?"
-msgstr ""
+msgstr "¿Desea deshabilitar estilos de respuesta?"
 
 #: admin/customizer/header.php:15
 msgid "Header"
-msgstr ""
+msgstr "Cabecera"
 
 #: admin/customizer/header.php:24
 msgid "Basic"
-msgstr ""
+msgstr "Básico"
 
 #: admin/customizer/header.php:38
 msgid "Timings"
-msgstr ""
+msgstr "Horarios"
 
 #: admin/customizer/header.php:54
 msgid "Phone"
-msgstr ""
+msgstr "Teléfono"
 
 #: admin/customizer/header.php:65
 msgid "Sticky Menu"
-msgstr ""
+msgstr "Menú pegajoso"
 
 #: admin/customizer/header.php:75
 msgid "Enable Sticky Menu?"
-msgstr ""
+msgstr "Habilitar menu fijo?"
 
 #: admin/customizer/header.php:91
 msgid "Main Menu Colors"
-msgstr ""
+msgstr "Colores del menú principal"
 
 #: admin/customizer/header.php:107
 msgid "Main Menu Background Color"
-msgstr ""
+msgstr "Color de fondo del menú principal"
 
 #: admin/customizer/header.php:108
 msgid ""
 "Background Color for Main Menu. This will also be applied to appointment "
 "widget and scroll top button."
 msgstr ""
+"Color de fondo para el menú principal. Esto también se aplicará al widget de "
+"citas y al botón de desplazamiento superior."
 
 #: admin/customizer/header.php:124
 msgid "Main Menu Text Color"
-msgstr ""
+msgstr "Color de texto del menú principal"
 
 #: admin/customizer/header.php:125
 msgid ""
 "Text Color for Main Menu. This will also be applied to appointment widget."
 msgstr ""
+"Color de texto para el menú principal. Esto también se aplicará al widget de "
+"citas."
 
 #: admin/customizer/header.php:141
 msgid "Main Menu Text Shadow Color"
-msgstr ""
+msgstr "Menú principal color de sombra de texto"
 
 #: admin/customizer/header.php:142
 msgid ""
 "Choose a Text Shadow Color for Menu. This will also be applied to "
 "appointment widget.."
 msgstr ""
+"Elija un color de sombra de texto para el menú. Esto también se aplicará al "
+"widget de citas.."
 
 #: admin/customizer/header.php:159
 msgid "Main Menu Border Color"
-msgstr ""
+msgstr "Color del borde del menú principal"
 
 #: admin/customizer/header.php:160
 msgid "Choose a Border Color for Menu Item."
-msgstr ""
+msgstr "Elija un color de borde para el elemento de menú."
 
 #: admin/customizer/header.php:177
 msgid "Main Menu Hover Background Color"
-msgstr ""
+msgstr "Menú principal Hover color de fondo"
 
 #: admin/customizer/header.php:178
 msgid "Choose a Hover Background Color for Top Menu."
-msgstr ""
+msgstr "Elija un color de fondo estacionario para el menú superior."
 
 #: admin/customizer/header.php:194
 msgid "Sub Menu Hover Background Color"
-msgstr ""
+msgstr "SubMenú sobreVolar color de fondo"
 
 #: admin/customizer/header.php:195
 msgid "Choose a Hover Background Color for Sub Menu Item."
 msgstr ""
+"Elija un color de fondo estacionario para el elemento de menú secundario."
 
 #: admin/customizer/home.php:15
 msgid "Home - Slider & Slogan Area"
-msgstr ""
+msgstr "Home - Slider & Eslogan Area"
 
 #: admin/customizer/home.php:23
 msgid "Slider Area"
-msgstr ""
+msgstr "Área del Slider"
 
 #: admin/customizer/home.php:38
 msgid "What to Display Below Header on Home Page ?"
-msgstr ""
+msgstr "Qué Mostrar a continuación de la cabecera de página inicial?"
 
 #: admin/customizer/home.php:45
 msgid "Default Slider"
-msgstr ""
+msgstr "Slider Predeterminado"
 
 #: admin/customizer/home.php:46
 msgid "Slider Based on Revolution Slider Plugin."
-msgstr ""
+msgstr "Slider basado en Slider Revolution Plugin."
 
 #: admin/customizer/home.php:57
 msgid "Revolution Slider Alias"
-msgstr ""
+msgstr "Alias Revolution Slider"
 
 #: admin/customizer/home.php:58
 msgid "If you want to display Revolution Slider then provide its alias here."
-msgstr ""
+msgstr "Si quieres usar un Revolution Slider escriba el alias aquí."
 
 #: admin/customizer/home.php:71
 msgid ""
 "Do you want to enable default slider navigation tabs to go to their linked "
 "URLs ?"
 msgstr ""
+"¿Desea habilitar las fichas de navegación de los controles deslizantes "
+"predeterminadas para ir a sus URLs vinculadas?"
 
 #: admin/customizer/home.php:88
 msgid "Disable slider auto play ?"
@@ -468,27 +497,27 @@ msgstr ""
 
 #: admin/customizer/home.php:104
 msgid "Slider Colors"
-msgstr ""
+msgstr "Colores del Slider"
 
 #: admin/customizer/home.php:119
 msgid "Slider Nav Background Color"
-msgstr ""
+msgstr "Color de fondo del Slider NAV"
 
 #: admin/customizer/home.php:135
 msgid "Slider Nav Background Hover Color"
-msgstr ""
+msgstr "Color de fondo Slider NAV"
 
 #: admin/customizer/home.php:151
 msgid "Slider Navigation Item Border Color"
-msgstr ""
+msgstr "Elemento de navegación del cursor color de borde"
 
 #: admin/customizer/home.php:168
 msgid "Slider Navigation Title Color"
-msgstr ""
+msgstr "Color de título de navegación Slider"
 
 #: admin/customizer/home.php:185
 msgid "Slider Navigation Title Shadow Color"
-msgstr ""
+msgstr "Título de la navegación Slider color sombra"
 
 #: admin/customizer/home.php:202
 msgid "Slider Navigation Sub-Title Color"
@@ -508,7 +537,7 @@ msgstr ""
 
 #: admin/customizer/home.php:245
 msgid "Slogan Text"
-msgstr ""
+msgstr "Texto Eslogan"
 
 #: admin/customizer/home.php:262
 msgid "Slogan Text Color"
@@ -528,7 +557,7 @@ msgstr ""
 
 #: admin/customizer/home.php:310
 msgid "Display Option"
-msgstr ""
+msgstr "Mostrar opción"
 
 #: admin/customizer/home.php:321
 msgid ""
@@ -554,7 +583,7 @@ msgstr ""
 
 #: admin/customizer/home.php:353
 msgid "Leave empty to hide button"
-msgstr ""
+msgstr "Dejar vacío para ocultar el botón"
 
 #: admin/customizer/home.php:363
 msgid "More Services Button URL"
@@ -682,7 +711,7 @@ msgstr ""
 
 #: admin/customizer/home.php:673
 msgid "Home - Doctors"
-msgstr ""
+msgstr "Home - Médicos"
 
 #: admin/customizer/home.php:683
 msgid "Do you want to display Doctors section on Homepage ?"
@@ -706,7 +735,7 @@ msgstr ""
 
 #: admin/customizer/home.php:729
 msgid "Display Random Doctors?."
-msgstr ""
+msgstr "¿Mostrar Random Doctors?."
 
 #: admin/customizer/home.php:746
 msgid "Choose the number of doctors to display on Homepage."
@@ -716,27 +745,27 @@ msgstr ""
 #: admin/customizer/home.php:976 admin/customizer/service.php:68
 #: admin/customizer/service.php:92
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: admin/customizer/home.php:753 admin/customizer/home.php:880
 #: admin/customizer/home.php:978 admin/customizer/service.php:70
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: admin/customizer/home.php:755 admin/customizer/home.php:882
 #: admin/customizer/home.php:980 admin/customizer/service.php:72
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: admin/customizer/home.php:757 admin/customizer/home.php:884
 #: admin/customizer/home.php:982 admin/customizer/service.php:74
 #: admin/customizer/service.php:94
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: admin/customizer/home.php:759 admin/customizer/home.php:886
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #: admin/customizer/home.php:788
 msgid "More Doctors"
@@ -748,7 +777,7 @@ msgstr ""
 
 #: admin/customizer/home.php:803
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: admin/customizer/home.php:808
 msgid "More Doctors Link"
@@ -784,7 +813,7 @@ msgstr ""
 
 #: admin/customizer/home.php:910
 msgid "Home - Testimonials"
-msgstr ""
+msgstr "Home - Testimonios"
 
 #: admin/customizer/home.php:920
 msgid "Do you want to display Testimonials section on Homepage ?"
@@ -812,11 +841,11 @@ msgstr ""
 
 #: admin/customizer/home.php:974 admin/customizer/service.php:66
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: admin/customizer/service.php:11
 msgid "Service Detail Page"
-msgstr ""
+msgstr "Página de Detalle de Servicio"
 
 #: admin/customizer/service.php:16
 msgid "Our <span>Services</span>"
@@ -850,19 +879,19 @@ msgstr ""
 
 #: admin/customizer/service.php:96
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #: admin/customizer/service.php:97
 msgid "18"
-msgstr ""
+msgstr "18"
 
 #: admin/customizer/service.php:98
 msgid "21"
-msgstr ""
+msgstr "21"
 
 #: admin/customizer/service.php:99 admin/customizer/service.php:122
 msgid "24"
-msgstr ""
+msgstr "24"
 
 #: admin/customizer/service.php:100
 msgid "27"
@@ -878,11 +907,11 @@ msgstr ""
 
 #: admin/customizer/styling.php:20
 msgid "Body Text Color"
-msgstr ""
+msgstr "Color del cuerpo de texto"
 
 #: admin/customizer/styling.php:35
 msgid "Headings Color"
-msgstr ""
+msgstr "Color de Encabezados"
 
 #: admin/customizer/styling.php:50
 msgid "Main Title Color"
@@ -890,7 +919,7 @@ msgstr ""
 
 #: admin/customizer/styling.php:65
 msgid "Highlight Color"
-msgstr ""
+msgstr "Resaltar color"
 
 #: admin/customizer/styling.php:66
 msgid "Choose a color for highligted items and text throug-out the theme."
@@ -898,23 +927,23 @@ msgstr ""
 
 #: admin/customizer/styling.php:82
 msgid "Selection Background Color"
-msgstr ""
+msgstr "Selección color de fondo"
 
 #: admin/customizer/styling.php:97
 msgid "Link Color"
-msgstr ""
+msgstr "Color de los enlaces"
 
 #: admin/customizer/styling.php:112
 msgid "Link Hover Color"
-msgstr ""
+msgstr "Color de los enlaces con el ratón encima"
 
 #: admin/customizer/styling.php:127
 msgid "Button Background Color"
-msgstr ""
+msgstr "Color de fondo del botón"
 
 #: admin/customizer/styling.php:142
 msgid "Button Text Color"
-msgstr ""
+msgstr "Color del texto del botón"
 
 #: admin/customizer/styling.php:158
 msgid "Button Text Shadow Color"
@@ -934,6 +963,9 @@ msgid ""
 "applied to the theme. If you need to change major portions of the theme "
 "please use the custom.css file."
 msgstr ""
+"¿Solo quiero hacer algunos cambios rápidos de CSS? Añadir aquí y se "
+"aplicarán al tema. Si necesitas cambiar las partes principales del tema, "
+"utiliza el archivo custom.css."
 
 #: archive.php:7
 msgid "All posts in"
@@ -941,115 +973,117 @@ msgstr ""
 
 #: archive.php:12
 msgid "All Posts tagged "
-msgstr ""
+msgstr "Todos los mensajes etiquetados "
 
 #: archive.php:17 archive.php:22 archive.php:27
 msgid "Archive for"
-msgstr ""
+msgstr "Archivo de"
 
 #: archive.php:18 archive.php:23 archive.php:28 functions.php:405
 #, php-format
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #: archive.php:33
 msgid "All posts by"
-msgstr ""
+msgstr "Todos los artículos de"
 
 #: archive.php:37
 msgid "Archives"
-msgstr ""
+msgstr "Archivos"
 
 #: archive.php:66 index.php:31 search.php:30 single.php:26
 msgid "By"
-msgstr ""
+msgstr "Por"
 
 #: archive.php:100 index.php:61 search.php:62 single.php:56
 msgid "0 Comments"
-msgstr ""
+msgstr "0 Comentarios"
 
 #: archive.php:100 index.php:61 search.php:62 single.php:56
 msgid "1 Comment"
-msgstr ""
+msgstr "1 Comentario"
 
 #: archive.php:100 index.php:61 search.php:62 single.php:56
 msgid "% Comments"
-msgstr ""
+msgstr "% Comentarios"
 
 #: archive.php:119 index.php:75 search.php:78 taxonomy-department.php:56
 #: template-doctors-four-columns.php:104 template-doctors-two-columns.php:105
 #: template-services-four-columns.php:68 template-services-one-column.php:67
 #: template-services-three-columns.php:71
 msgid "More"
-msgstr ""
+msgstr "Más"
 
 #: archive.php:127 index.php:89 search.php:86
 msgid "No Posts Found"
-msgstr ""
+msgstr "No se han encontrado publicaciones"
 
 #: archive.php:128 search.php:87
 msgid "Please try a different search term!"
-msgstr ""
+msgstr "¡Por favor intente un término de búsqueda diferente!"
 
 #: comments.php:5
 msgid ""
 "This post is password protected. Enter the password to view any comments."
 msgstr ""
+"Esta publicación está protegida con contraseña. Ingrese la contraseña para "
+"ver cualquier comentario."
 
 #: comments.php:15
 #, php-format
 msgid "Comments (%1$s)"
 msgid_plural "Comments (%1$s)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Comentarios (%1$s)"
+msgstr[1] "Comentarios (%1$s)"
 
 #: comments.php:34
 msgid "Comments are closed."
-msgstr ""
+msgstr "Los comentarios están cerrados."
 
 #: functions.php:58
 msgid "Main Menu"
-msgstr ""
+msgstr "Menú principal"
 
 #: functions.php:73
 msgid "Small"
-msgstr ""
+msgstr "Pequeño"
 
 #: functions.php:74
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: functions.php:79
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: functions.php:80
 msgid "M"
-msgstr ""
+msgstr "M"
 
 #: functions.php:85
 msgid "Large"
-msgstr ""
+msgstr "Grande"
 
 #: functions.php:86
 msgid "L"
-msgstr ""
+msgstr "L"
 
 #: functions.php:91
 msgid "Huge"
-msgstr ""
+msgstr "Enorme"
 
 #: functions.php:92
 msgid "XL"
-msgstr ""
+msgstr "XL"
 
 #: functions.php:104
 msgid "Primary"
-msgstr ""
+msgstr "Primario"
 
 #: functions.php:109
 msgid "Secondary"
-msgstr ""
+msgstr "Secundario"
 
 #: functions.php:114
 msgid "Primary Text"
@@ -1057,74 +1091,74 @@ msgstr ""
 
 #: functions.php:119
 msgid "Secondary Text"
-msgstr ""
+msgstr "Texto Secundario"
 
 #: functions.php:390
 msgid "Pingback:"
-msgstr ""
+msgstr "Pingback:"
 
 #: functions.php:390
 msgid "(Edit)"
-msgstr ""
+msgstr "(Editar)"
 
 #: functions.php:414
 #, php-format
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s en %2$s"
 
 #: functions.php:424
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "Tu comentario está esperando ser moderado."
 
 #: functions.php:429
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: functions.php:479
 msgid "First"
-msgstr ""
+msgstr "Primero"
 
 #: functions.php:483
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 #: functions.php:497
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 #: functions.php:501
 msgid "Last"
-msgstr ""
+msgstr "Último"
 
 #: functions.php:520
 msgctxt "Open Sans Round font: on or off"
 msgid "on"
-msgstr ""
+msgstr "en"
 
 #: functions.php:521
 msgctxt "Droid Sans Round font: on or off"
 msgid "on"
-msgstr ""
+msgstr "en"
 
 #: functions.php:730
 msgid "Go to..."
-msgstr ""
+msgstr "Ir a..."
 
 #: functions.php:731
 msgid "Wrong Code!"
-msgstr ""
+msgstr "¡Código incorrecto!"
 
 #: functions.php:880 functions.php:881
 msgid "Demo Import"
-msgstr ""
+msgstr "Importar Demo"
 
 #: functions.php:891 functions.php:892
 msgid "Customize"
-msgstr ""
+msgstr "Personalizar"
 
 #: header.php:105
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: include/demo-import/demo-import.php:10
 msgid "HealthPress Demo Import"
@@ -1132,43 +1166,43 @@ msgstr ""
 
 #: include/tgm/class-tgm-plugin-activation.php:334
 msgid "Install Required Plugins"
-msgstr ""
+msgstr "Instalar Plugins Requeridos"
 
 #: include/tgm/class-tgm-plugin-activation.php:335
 msgid "Install Plugins"
-msgstr ""
+msgstr "Instalar Plugins"
 
 #. translators: %s: plugin name.
 #: include/tgm/class-tgm-plugin-activation.php:337
 #, php-format
 msgid "Installing Plugin: %s"
-msgstr ""
+msgstr "Instalando Plugin: %s"
 
 #. translators: %s: plugin name.
 #: include/tgm/class-tgm-plugin-activation.php:339
 #, php-format
 msgid "Updating Plugin: %s"
-msgstr ""
+msgstr "Actualizando Plugin: %s"
 
 #: include/tgm/class-tgm-plugin-activation.php:340
 msgid "Something went wrong with the plugin API."
-msgstr ""
+msgstr "Algo salió mal con la API del plugin."
 
 #. translators: 1: plugin name(s).
 #: include/tgm/class-tgm-plugin-activation.php:343
 #, php-format
 msgid "This theme requires the following plugin: %1$s."
 msgid_plural "This theme requires the following plugins: %1$s."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
 
 #. translators: 1: plugin name(s).
 #: include/tgm/class-tgm-plugin-activation.php:349
 #, php-format
 msgid "This theme recommends the following plugin: %1$s."
 msgid_plural "This theme recommends the following plugins: %1$s."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Este tema recomienda el siguiente complemento: %1$s."
+msgstr[1] "Este tema recomienda los plugins: %1$s."
 
 #. translators: 1: plugin name(s).
 #: include/tgm/class-tgm-plugin-activation.php:355
@@ -1180,78 +1214,82 @@ msgid_plural ""
 "The following plugins need to be updated to their latest version to ensure "
 "maximum compatibility with this theme: %1$s."
 msgstr[0] ""
+"El siguiente plugin debe actualizarse a su última versión para garantizar la "
+"máxima compatibilidad con este tema: %1$s."
 msgstr[1] ""
+"Los siguientes plugins necesitan actualizarse a la versión más reciente para "
+"asegurar la máxima compatibilidad con este tema: %1$s."
 
 #. translators: 1: plugin name(s).
 #: include/tgm/class-tgm-plugin-activation.php:361
 #, php-format
 msgid "There is an update available for: %1$s."
 msgid_plural "There are updates available for the following plugins: %1$s."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
 
 #. translators: 1: plugin name(s).
 #: include/tgm/class-tgm-plugin-activation.php:367
 #, php-format
 msgid "The following required plugin is currently inactive: %1$s."
 msgid_plural "The following required plugins are currently inactive: %1$s."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "El siguiente complemento requerido está inactivo: %1$s."
+msgstr[1] "El siguiente plugin requerido se encuentra inactivo: %1$s."
 
 #. translators: 1: plugin name(s).
 #: include/tgm/class-tgm-plugin-activation.php:373
 #, php-format
 msgid "The following recommended plugin is currently inactive: %1$s."
 msgid_plural "The following recommended plugins are currently inactive: %1$s."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "El siguiente plugin recomendado esta actualmente inactivo: %1$s."
+msgstr[1] "El siguiente plugin recomendado está inactivo: %1$s."
 
 #: include/tgm/class-tgm-plugin-activation.php:378
 msgid "Begin installing plugin"
 msgid_plural "Begin installing plugins"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar a instalar plugins"
 
 #: include/tgm/class-tgm-plugin-activation.php:383
 msgid "Begin updating plugin"
 msgid_plural "Begin updating plugins"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Comenzar a actualizar el plugin"
+msgstr[1] "Comenzar la actualización de los plugins"
 
 #: include/tgm/class-tgm-plugin-activation.php:388
 msgid "Begin activating plugin"
 msgid_plural "Begin activating plugins"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Comenzar a activar el plugin"
+msgstr[1] "Comenzar a activar plugins"
 
 #: include/tgm/class-tgm-plugin-activation.php:392
 msgid "Return to Required Plugins Installer"
-msgstr ""
+msgstr "Volver al instalador de plugins requeridos"
 
 #: include/tgm/class-tgm-plugin-activation.php:393
 #: include/tgm/class-tgm-plugin-activation.php:912
 #: include/tgm/class-tgm-plugin-activation.php:2618
 #: include/tgm/class-tgm-plugin-activation.php:3665
 msgid "Return to the Dashboard"
-msgstr ""
+msgstr "Volver al Escritorio"
 
 #: include/tgm/class-tgm-plugin-activation.php:394
 #: include/tgm/class-tgm-plugin-activation.php:3244
 msgid "Plugin activated successfully."
-msgstr ""
+msgstr "Plugin activado correctamente."
 
 #: include/tgm/class-tgm-plugin-activation.php:395
 #: include/tgm/class-tgm-plugin-activation.php:3037
 msgid "The following plugin was activated successfully:"
 msgid_plural "The following plugins were activated successfully:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "El siguiente plugin ha sido activado con éxito:"
+msgstr[1] "Los siguientes plugins se activaron con éxito:"
 
 #. translators: 1: plugin name.
 #: include/tgm/class-tgm-plugin-activation.php:397
 #, php-format
 msgid "No action taken. Plugin %1$s was already active."
-msgstr ""
+msgstr "No se realizó ninguna acción. El plugin %1$s ya estaba activado."
 
 #. translators: 1: plugin name.
 #: include/tgm/class-tgm-plugin-activation.php:399
@@ -1260,40 +1298,48 @@ msgid ""
 "Plugin not activated. A higher version of %s is needed for this theme. "
 "Please update the plugin."
 msgstr ""
+"Plugin no activado. Una versión superior de %s es necesaria para este tema. "
+"Por favor actualice el plugin."
 
 #. translators: 1: dashboard link.
 #: include/tgm/class-tgm-plugin-activation.php:401
 #, php-format
 msgid "All plugins installed and activated successfully. %1$s"
-msgstr ""
+msgstr "Todos los plugins instalados y activados con éxito. %1$s"
 
 #: include/tgm/class-tgm-plugin-activation.php:402
 msgid "Dismiss this notice"
-msgstr ""
+msgstr "Descartar este aviso"
 
 #: include/tgm/class-tgm-plugin-activation.php:403
 msgid ""
 "There are one or more required or recommended plugins to install, update or "
 "activate."
 msgstr ""
+"Hay uno o más plugins necesarios o recomendados para instalar, actualizar o "
+"activar."
 
 #: include/tgm/class-tgm-plugin-activation.php:404
 msgid "Please contact the administrator of this site for help."
 msgstr ""
+"Por favor, póngase en contacto con el administrador de este sitio para "
+"obtener ayuda."
 
 #: include/tgm/class-tgm-plugin-activation.php:607
 msgid "This plugin needs to be updated to be compatible with your theme."
-msgstr ""
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
 
 #: include/tgm/class-tgm-plugin-activation.php:608
 msgid "Update Required"
-msgstr ""
+msgstr "Actualización Requerida"
 
 #: include/tgm/class-tgm-plugin-activation.php:1019
 msgid ""
 "The remote plugin package does not contain a folder with the desired slug "
 "and renaming did not work."
 msgstr ""
+"El paquete del plugin externo no contiene una carpeta con el slug deseado y "
+"el renombrado no ha funcionado."
 
 #: include/tgm/class-tgm-plugin-activation.php:1019
 #: include/tgm/class-tgm-plugin-activation.php:1022
@@ -1301,75 +1347,79 @@ msgid ""
 "Please contact the plugin provider and ask them to package their plugin "
 "according to the WordPress guidelines."
 msgstr ""
+"Por favor, póngase en contacto con el proveedor del plugin para que "
+"empaqueten su plugin de acuerdo con las directrices de Wordpress ."
 
 #: include/tgm/class-tgm-plugin-activation.php:1022
 msgid ""
 "The remote plugin package consists of more than one file, but the files are "
 "not packaged in a folder."
 msgstr ""
+"El paquete remoto de plugin consiste en más de un archivo, pero los mismos "
+"no fueron empaquetados en una carpeta."
 
 #: include/tgm/class-tgm-plugin-activation.php:1206
 #: include/tgm/class-tgm-plugin-activation.php:3033
 msgctxt "plugin A *and* plugin B"
 msgid "and"
-msgstr ""
+msgstr "y"
 
 #. translators: %s: version number
 #: include/tgm/class-tgm-plugin-activation.php:2067
 #, php-format
 msgid "TGMPA v%s"
-msgstr ""
+msgstr "TGMPA v%s"
 
 #: include/tgm/class-tgm-plugin-activation.php:2358
 msgid "Required"
-msgstr ""
+msgstr "Requerido"
 
 #: include/tgm/class-tgm-plugin-activation.php:2361
 msgid "Recommended"
-msgstr ""
+msgstr "Recomendado"
 
 #: include/tgm/class-tgm-plugin-activation.php:2377
 msgid "WordPress Repository"
-msgstr ""
+msgstr "Repositorio de WordPress"
 
 #: include/tgm/class-tgm-plugin-activation.php:2380
 msgid "External Source"
-msgstr ""
+msgstr "Fuente externa"
 
 #: include/tgm/class-tgm-plugin-activation.php:2383
 msgid "Pre-Packaged"
-msgstr ""
+msgstr "Pre-Empaquetado"
 
 #: include/tgm/class-tgm-plugin-activation.php:2400
 msgid "Not Installed"
-msgstr ""
+msgstr "No instalado"
 
 #: include/tgm/class-tgm-plugin-activation.php:2404
 msgid "Installed But Not Activated"
-msgstr ""
+msgstr "Instalado pero no activado"
 
 #: include/tgm/class-tgm-plugin-activation.php:2406
 msgid "Active"
-msgstr ""
+msgstr "Activo"
 
 #: include/tgm/class-tgm-plugin-activation.php:2412
 msgid "Required Update not Available"
-msgstr ""
+msgstr "Actualización requerida no disponible"
 
 #: include/tgm/class-tgm-plugin-activation.php:2415
 msgid "Requires Update"
-msgstr ""
+msgstr "Requiere actualización"
 
 #: include/tgm/class-tgm-plugin-activation.php:2418
 msgid "Update recommended"
-msgstr ""
+msgstr "Actualización recomendada"
 
 #. translators: 1: install status, 2: update status
 #: include/tgm/class-tgm-plugin-activation.php:2427
 #, php-format
 msgctxt "Install/Update Status"
 msgid "%1$s, %2$s"
-msgstr ""
+msgstr "%1$s, %2$s"
 
 #. translators: 1: number of plugins.
 #: include/tgm/class-tgm-plugin-activation.php:2473
@@ -1377,219 +1427,227 @@ msgstr ""
 msgctxt "plugins"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todo <span class=\"count\">(%s)</span>"
 
 #. translators: 1: number of plugins.
 #: include/tgm/class-tgm-plugin-activation.php:2477
 #, php-format
 msgid "To Install <span class=\"count\">(%s)</span>"
 msgid_plural "To Install <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
 
 #. translators: 1: number of plugins.
 #: include/tgm/class-tgm-plugin-activation.php:2481
 #, php-format
 msgid "Update Available <span class=\"count\">(%s)</span>"
 msgid_plural "Update Available <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Actualización Disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualización Disponible <span class=\"count\">(%s)</span>"
 
 #. translators: 1: number of plugins.
 #: include/tgm/class-tgm-plugin-activation.php:2485
 #, php-format
 msgid "To Activate <span class=\"count\">(%s)</span>"
 msgid_plural "To Activate <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Para Activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para Activar <span class=\"count\">(%s)</span>"
 
 #: include/tgm/class-tgm-plugin-activation.php:2567
 msgctxt "as in: \"version nr unknown\""
 msgid "unknown"
-msgstr ""
+msgstr "desconocido"
 
 #: include/tgm/class-tgm-plugin-activation.php:2575
 msgid "Installed version:"
-msgstr ""
+msgstr "Versión instalada:"
 
 #: include/tgm/class-tgm-plugin-activation.php:2583
 msgid "Minimum required version:"
-msgstr ""
+msgstr "Versión mínima requerida:"
 
 #: include/tgm/class-tgm-plugin-activation.php:2595
 msgid "Available version:"
-msgstr ""
+msgstr "Versión disponible:"
 
 #: include/tgm/class-tgm-plugin-activation.php:2618
 msgid "No plugins to install, update or activate."
-msgstr ""
+msgstr "No hay plugins para instalar, actualizar o activar."
 
 #: include/tgm/class-tgm-plugin-activation.php:2632
 msgid "Plugin"
-msgstr ""
+msgstr "Plugin"
 
 #: include/tgm/class-tgm-plugin-activation.php:2633
 msgid "Source"
-msgstr ""
+msgstr "Fuente"
 
 #: include/tgm/class-tgm-plugin-activation.php:2634
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: include/tgm/class-tgm-plugin-activation.php:2638
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: include/tgm/class-tgm-plugin-activation.php:2639
 msgid "Status"
-msgstr ""
+msgstr "Estado"
 
 #. translators: %2$s: plugin name in screen reader markup
 #: include/tgm/class-tgm-plugin-activation.php:2688
 #, php-format
 msgid "Install %2$s"
-msgstr ""
+msgstr "Instalar %2$s"
 
 #. translators: %2$s: plugin name in screen reader markup
 #: include/tgm/class-tgm-plugin-activation.php:2693
 #, php-format
 msgid "Update %2$s"
-msgstr ""
+msgstr "Actualizar %2$s"
 
 #. translators: %2$s: plugin name in screen reader markup
 #: include/tgm/class-tgm-plugin-activation.php:2699
 #, php-format
 msgid "Activate %2$s"
-msgstr ""
+msgstr "Activar %2$s"
 
 #: include/tgm/class-tgm-plugin-activation.php:2769
 msgid "Upgrade message from the plugin author:"
-msgstr ""
+msgstr "Mensaje de actualización del autor del plugin:"
 
 #: include/tgm/class-tgm-plugin-activation.php:2802
 msgid "Install"
-msgstr ""
+msgstr "Instalar"
 
 #: include/tgm/class-tgm-plugin-activation.php:2808
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
 #: include/tgm/class-tgm-plugin-activation.php:2811
 msgid "Activate"
-msgstr ""
+msgstr "Activar"
 
 #: include/tgm/class-tgm-plugin-activation.php:2842
 msgid "No plugins were selected to be installed. No action taken."
 msgstr ""
+"Ningún plugin seleccionado para ser instalado. Ninguna acción a realizar."
 
 #: include/tgm/class-tgm-plugin-activation.php:2844
 msgid "No plugins were selected to be updated. No action taken."
 msgstr ""
+"No se seleccionaron complementos para actualizarse. Ninguna acción tomada."
 
 #: include/tgm/class-tgm-plugin-activation.php:2885
 msgid "No plugins are available to be installed at this time."
-msgstr ""
+msgstr "No hay plugins disponibles para ser instalados en este momento."
 
 #: include/tgm/class-tgm-plugin-activation.php:2887
 msgid "No plugins are available to be updated at this time."
-msgstr ""
+msgstr "No hay plugins disponibles para ser actualizados en este momento."
 
 #: include/tgm/class-tgm-plugin-activation.php:2993
 msgid "No plugins were selected to be activated. No action taken."
 msgstr ""
+"Ningún plugin seleccionado para ser activado. Ninguna acción a realizar."
 
 #: include/tgm/class-tgm-plugin-activation.php:3019
 msgid "No plugins are available to be activated at this time."
-msgstr ""
+msgstr "No hay plugins disponibles para ser activados en este momento."
 
 #: include/tgm/class-tgm-plugin-activation.php:3243
 msgid "Plugin activation failed."
-msgstr ""
+msgstr "La activación del plugin ha fallado."
 
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
 #: include/tgm/class-tgm-plugin-activation.php:3583
 #, php-format
 msgid "Updating Plugin %1$s (%2$d/%3$d)"
-msgstr ""
+msgstr "Actualizando Plugin %1$s (%2$d/%3$d)"
 
 #. translators: 1: plugin name, 2: error message.
 #: include/tgm/class-tgm-plugin-activation.php:3586
 #, php-format
 msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
 msgstr ""
+"Se produjo un error durante la instalación de %1$s: <strong>%2$s</strong>."
 
 #. translators: 1: plugin name.
 #: include/tgm/class-tgm-plugin-activation.php:3588
 #, php-format
 msgid "The installation of %1$s failed."
-msgstr ""
+msgstr "La instalación de %1$s ha fallado."
 
 #: include/tgm/class-tgm-plugin-activation.php:3592
 msgid ""
 "The installation and activation process is starting. This process may take a "
 "while on some hosts, so please be patient."
 msgstr ""
+"El proceso de instalación y activación se está iniciando. Este proceso puede "
+"tardar un poco en algunos servidores, así que por favor sea paciente."
 
 #. translators: 1: plugin name.
 #: include/tgm/class-tgm-plugin-activation.php:3594
 #, php-format
 msgid "%1$s installed and activated successfully."
-msgstr ""
+msgstr "%1$s instalado y activado correctamente."
 
 #: include/tgm/class-tgm-plugin-activation.php:3594
 #: include/tgm/class-tgm-plugin-activation.php:3602
 msgid "Show Details"
-msgstr ""
+msgstr "Mostrar detalles"
 
 #: include/tgm/class-tgm-plugin-activation.php:3594
 #: include/tgm/class-tgm-plugin-activation.php:3602
 msgid "Hide Details"
-msgstr ""
+msgstr "Ocultar detalles"
 
 #: include/tgm/class-tgm-plugin-activation.php:3595
 msgid "All installations and activations have been completed."
-msgstr ""
+msgstr "Todas las instalaciones y activaciones han sido completadas."
 
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
 #: include/tgm/class-tgm-plugin-activation.php:3597
 #, php-format
 msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
-msgstr ""
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
 
 #: include/tgm/class-tgm-plugin-activation.php:3600
 msgid ""
 "The installation process is starting. This process may take a while on some "
 "hosts, so please be patient."
 msgstr ""
+"El proceso de instalación se está iniciando. Este proceso puede tardar un "
+"poco en algunos servidores, así que por favor sea paciente."
 
 #. translators: 1: plugin name.
 #: include/tgm/class-tgm-plugin-activation.php:3602
 #, php-format
 msgid "%1$s installed successfully."
-msgstr ""
+msgstr "%1$s instalado correctamente."
 
 #: include/tgm/class-tgm-plugin-activation.php:3603
 msgid "All installations have been completed."
-msgstr ""
+msgstr "Todas las instalaciones se han completado."
 
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
 #: include/tgm/class-tgm-plugin-activation.php:3605
 #, php-format
 msgid "Installing Plugin %1$s (%2$d/%3$d)"
-msgstr ""
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
 
 #: include/tgm/tgm-plugins.php:26
 msgid "One Click Demo Import"
-msgstr ""
+msgstr "Importar demo en un clic"
 
 #: index.php:83 single.php:80
 msgid "&laquo; Previous"
-msgstr ""
+msgstr "&laquo; Anterior"
 
 #: index.php:84 single.php:81
 msgid "Next &raquo;"
-msgstr ""
+msgstr "Siguiente &raquo;"
 
 #: index.php:90
 msgid "Perhaps top Navigation or Search will help!"
@@ -1597,7 +1655,7 @@ msgstr ""
 
 #: page.php:59 single.php:73 template-faq.php:87 template-testimonials.php:108
 msgid "Pages"
-msgstr ""
+msgstr "Páginas"
 
 #: search.php:4
 msgid "Search Results For"
@@ -1605,35 +1663,35 @@ msgstr ""
 
 #: sections/appointment-form.php:6
 msgid "OR"
-msgstr ""
+msgstr "O"
 
 #: sections/appointment-form.php:12 sections/appointment-form.php:14
 msgid "Full Name"
-msgstr ""
+msgstr "Nombre completo"
 
 #: sections/appointment-form.php:15
 msgid "* Please enter your Full Name"
-msgstr ""
+msgstr "* Por favor introduzca su Nombre Completo"
 
 #: sections/appointment-form.php:18 sections/appointment-form.php:20
 msgid "Phone Number"
-msgstr ""
+msgstr "Número de teléfono"
 
 #: sections/appointment-form.php:21
 msgid "* Please enter your Phone Number"
-msgstr ""
+msgstr "* Por favor introduzca su Número de Teléfono"
 
 #: sections/appointment-form.php:24 sections/appointment-form.php:26
 msgid "Email Address"
-msgstr ""
+msgstr "Dirección de correo electrónico"
 
 #: sections/appointment-form.php:27
 msgid "* Please enter valid Email Address"
-msgstr ""
+msgstr "* Por favor introduzca un email válido"
 
 #: sections/appointment-form.php:31 sections/appointment-form.php:33
 msgid "Appointment Date"
-msgstr ""
+msgstr "Fecha de la cita"
 
 #: sections/appointment-form.php:34
 msgid "* Please select desired appointment date"
@@ -1641,19 +1699,19 @@ msgstr ""
 
 #: sections/appointment-form.php:38 sections/appointment-form.php:40
 msgid "Message"
-msgstr ""
+msgstr "Mensaje"
 
 #: sections/appointment-form.php:41
 msgid "* Please enter your message"
-msgstr ""
+msgstr "* Por favor introduzca su mensaje"
 
 #: sections/appointment-form.php:52
 msgid "* Please enter the code characters displayed in image!"
-msgstr ""
+msgstr "* Por favor, introduzca los caracteres que se muestran en la imagen!"
 
 #: sections/appointment-form.php:59
 msgid "Submit Request"
-msgstr ""
+msgstr "Enviar Solicitud"
 
 #: sections/blog-post-home-full-width.php:14
 #: sections/blog-posts-for-home.php:14
@@ -1667,7 +1725,7 @@ msgstr ""
 
 #: sections/gallery.php:20
 msgid "All"
-msgstr ""
+msgstr "Todo"
 
 #: sections/gallery.php:25
 #, php-format
@@ -1676,15 +1734,15 @@ msgstr ""
 
 #: taxonomy-department.php:9
 msgid " Department"
-msgstr ""
+msgstr " Departamento"
 
 #: taxonomy-faq-group.php:6
 msgid "FAQs"
-msgstr ""
+msgstr "FAQs"
 
 #: taxonomy-gallery-item-type.php:6
 msgid "Gallery Items"
-msgstr ""
+msgstr "Artículos de la Galería"
 
 #. Theme Name of the plugin/theme
 msgid "HealthPress Theme"
@@ -1704,7 +1762,7 @@ msgstr ""
 
 #. Author of the plugin/theme
 msgid "InspiryThemes"
-msgstr ""
+msgstr "InspiryThemes"
 
 #. Author URI of the plugin/theme
 msgid "http://www.InspiryThemes.com/"
@@ -1724,7 +1782,7 @@ msgstr ""
 
 #. Template Name of the plugin/theme
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 #. Template Name of the plugin/theme
 msgid "Home with Sidebar"
@@ -1736,7 +1794,7 @@ msgstr ""
 
 #. Template Name of the plugin/theme
 msgid "Fullwidth"
-msgstr ""
+msgstr "Ancho completo"
 
 #. Template Name of the plugin/theme
 msgid "Home with blog posts"
